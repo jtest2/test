@@ -1,0 +1,500 @@
+﻿Season,Round Number,track_name,album_name,Artist(s),Release Year,Submitter ID,Abrutyn,Fine,Gorelick,Gruber,Hochhauser,Leon,Maizes,Martin,Ojalvo,Reyes,Schnall,Zaslav,Total_Points,Num_Votes,artist_genres,top_genre,round_name,round_description,Submission_ID_new
+1,1,Travelin' Soldier,Home,The Chicks,2002,Martin,,,,,1.0,,2.0,,2.0,,2.0,2.0,9,5,country,country,Story Time,Songs that tell a story,Martin_1_1
+1,1,Love Story,Fearless,Taylor Swift,2008,Maizes,,,,,2.0,,,,-1.0,,2.0,1.0,4,4,,,Story Time,Songs that tell a story,Maizes_1_1
+1,1,Stan,The Marshall Mathers LP,Eminem; Dido,2000,Ojalvo,,,,,2.0,,2.0,-1.0,,,1.0,2.0,6,5,rap; hip hop,rap,Story Time,Songs that tell a story,Ojalvo_1_1
+1,1,It Wasn't Me,Hot Shot,Shaggy; Rik Rok,2000,Zaslav,,,,,-1.0,,1.0,2.0,1.0,,-1.0,,2,5,reggae; riddim; dancehall; ragga; lovers rock,reggae,Story Time,Songs that tell a story,Zaslav_1_1
+1,1,Operator (That's Not the Way It Feels),You Don't Mess Around With Jim,Jim Croce,1972,Schnall,,,,,,,-1.0,2.0,1.0,,,,2,3,folk rock; singer-songwriter,folk rock,Story Time,Songs that tell a story,Schnall_1_1
+1,1,Maggie's Song,Starting Over,Chris Stapleton,2020,Hochhauser,,,,,,,-1.0,1.0,1.0,,-1.0,-1.0,-1,5,country,country,Story Time,Songs that tell a story,Hochhauser_1_1
+1,3,Where Is The Love?,Elephunk,Black Eyed Peas,2003,Maizes,,,1.0,,1.0,,,2.0,1.0,,1.0,1.0,7,6,,,Question,Songs with questions for titles,Maizes_3_1
+1,3,What's the Use?,Swimming,Mac Miller,2018,Hochhauser,,,-1.0,,,,1.0,-1.0,1.0,,,,0,4,,,Question,Songs with questions for titles,Hochhauser_3_1
+1,3,Whataya Want from Me,For Your Entertainment,Adam Lambert,2009,Martin,,,,,-1.0,,1.0,,1.0,,2.0,2.0,5,5,,,Question,Songs with questions for titles,Martin_3_1
+1,3,Wouldn't It Be Nice,Pet Sounds,The Beach Boys,1966,Ojalvo,,,2.0,,,,1.0,1.0,,,1.0,1.0,6,5,baroque pop,baroque pop,Question,Songs with questions for titles,Ojalvo_3_1
+1,3,Have You Ever Seen The Rain,Pendulum,Creedence Clearwater Revival,1970,Schnall,,,1.0,,2.0,,1.0,2.0,1.0,,,1.0,8,6,classic rock; southern rock; country rock,classic rock,Question,Songs with questions for titles,Schnall_3_1
+1,3,Could You Be Loved,Uprising,Bob Marley & The Wailers,1980,Zaslav,,,1.0,,2.0,,1.0,,1.0,,-1.0,,4,5,reggae; roots reggae,reggae,Question,Songs with questions for titles,Zaslav_3_1
+1,3,"What Was I Made For? [From The Motion Picture ""Barbie""]","What Was I Made For? [From The Motion Picture ""Barbie""]",Billie Eilish,2023,Gorelick,,,,,,,-1.0,,-1.0,,1.0,-1.0,-2,4,,,Question,Songs with questions for titles,Gorelick_3_1
+1,4,Something - Remastered 2009,Abbey Road (Remastered),The Beatles,1969,Martin,,,2.0,,1.0,1.0,1.0,,2.0,,1.0,,8,6,classic rock; psychedelic rock,classic rock,Can I Have A Word?,Songs with one word titles,Martin_4_1
+1,4,Higher,ANTI (Deluxe),Rihanna,2016,Leon,,,,,3.0,,1.0,,,,1.0,-1.0,4,4,,,Can I Have A Word?,Songs with one word titles,Leon_4_1
+1,4,Paradise,Late Nights: The Album,Jeremih,2015,Zaslav,,,-1.0,,,3.0,1.0,3.0,,,1.0,,7,5,,,Can I Have A Word?,Songs with one word titles,Zaslav_4_1
+1,4,Gravity,Continuum,John Mayer,2006,Ojalvo,,,2.0,,,,1.0,,,,,1.0,4,3,singer-songwriter,singer-songwriter,Can I Have A Word?,Songs with one word titles,Ojalvo_4_1
+1,4,CYANIDE,CASE STUDY 01,Daniel Caesar,2019,Gorelick,,,,,,,-1.0,-1.0,-1.0,,-1.0,1.0,-3,5,,,Can I Have A Word?,Songs with one word titles,Gorelick_4_1
+1,4,Panama,Best of Volume 1,Van Halen,1996,Maizes,,,,,-1.0,-1.0,,1.0,1.0,,,,0,4,glam metal; classic rock; rock; hard rock,glam metal,Can I Have A Word?,Songs with one word titles,Maizes_4_1
+1,4,Roses,Roses,Sigs Inside,2023,Hochhauser,,,1.0,,,2.0,1.0,1.0,2.0,,3.0,2.0,12,7,,,Can I Have A Word?,Songs with one word titles,Hochhauser_4_1
+1,4,Walk,Wasting Light,Foo Fighters,2011,Schnall,,,1.0,,2.0,,1.0,1.0,1.0,,,2.0,8,6,rock; post-grunge; alternative rock; grunge; modern rock,rock,Can I Have A Word?,Songs with one word titles,Schnall_4_1
+1,5,Saint Pablo,The Life Of Pablo,Kanye West,2016,Gorelick,,,,,2.0,,-1.0,,2.0,,1.0,,4,4,rap,rap,Closing Time,"I know who I want to take me home: it’s these songs, that close out their albums with a bang!",Gorelick_5_1
+1,5,Kingdom Come,The Separation,Jon Bellion,2013,Ojalvo,,,,,-1.0,,1.0,2.0,,,,2.0,4,4,,,Closing Time,"I know who I want to take me home: it’s these songs, that close out their albums with a bang!",Ojalvo_5_1
+1,5,Gimme! Gimme! Gimme! (A Man After Midnight),Voulez-Vous,ABBA,1979,Zaslav,,,3.0,,,,2.0,1.0,-1.0,,,,5,4,,,Closing Time,"I know who I want to take me home: it’s these songs, that close out their albums with a bang!",Zaslav_5_1
+1,5,End Of The Line,"The Traveling Wilburys, Vol. 1",Traveling Wilburys,1988,Martin,,,2.0,,2.0,-1.0,1.0,,2.0,,1.0,1.0,8,7,,,Closing Time,"I know who I want to take me home: it’s these songs, that close out their albums with a bang!",Martin_5_1
+1,5,Modern Girl,Modern Girl,Bleachers,2023,Maizes,,,-1.0,,,3.0,,2.0,2.0,,-1.0,2.0,7,6,,,Closing Time,"I know who I want to take me home: it’s these songs, that close out their albums with a bang!",Maizes_5_1
+1,5,Purple Rain,Purple Rain,Prince,1984,Leon,,,,,,,1.0,,,,1.0,,2,2,funk rock,funk rock,Closing Time,"I know who I want to take me home: it’s these songs, that close out their albums with a bang!",Leon_5_1
+1,5,When It's Time,American Idiot - The Original Broadway Cast Recording,Green Day,2010,Schnall,,,1.0,,2.0,2.0,,-1.0,,,,-1.0,3,5,punk; pop punk,punk,Closing Time,"I know who I want to take me home: it’s these songs, that close out their albums with a bang!",Schnall_5_1
+1,5,Wake Up Time,Wildflowers,Tom Petty,1994,Hochhauser,,,,,,1.0,1.0,1.0,,,3.0,1.0,7,5,classic rock,classic rock,Closing Time,"I know who I want to take me home: it’s these songs, that close out their albums with a bang!",Hochhauser_5_1
+1,6,The Man Who Sold The World - Live,MTV Unplugged In New York,Nirvana,1994,Hochhauser,,,,,,,1.0,1.0,,,1.0,,3,3,grunge; rock,grunge,Genre-bending Covers,Songs that are covers in a different genre than the original,Hochhauser_6_1
+1,6,California Dreamin',San Andreas (Original Motion Picture Soundtrack),Sia,2015,Schnall,,,,,,3.0,1.0,1.0,2.0,,,3.0,10,5,,,Genre-bending Covers,Songs that are covers in a different genre than the original,Schnall_6_1
+1,6,Can't Hold Us - Acoustic,Can't Hold Us (Acoustic),Tyler Ward; Alex G,2013,Maizes,,,,,,-1.0,,-1.0,1.0,,-1.0,,-2,4,acoustic pop,acoustic pop,Genre-bending Covers,Songs that are covers in a different genre than the original,Maizes_6_1
+1,6,Hurt,American IV: The Man Comes Around,Johnny Cash,2002,Martin,,,1.0,,1.0,2.0,-1.0,,,,2.0,2.0,7,6,country,country,Genre-bending Covers,Songs that are covers in a different genre than the original,Martin_6_1
+1,6,Changes,Changes,Charles Bradley; The Budos Band,2016,Gorelick,,,,,2.0,1.0,1.0,2.0,-1.0,,,1.0,6,6,retro soul; soul; soul blues; afrobeat; jazz funk; afro soul,retro soul,Genre-bending Covers,Songs that are covers in a different genre than the original,Gorelick_6_1
+1,6,Smile,Happy Hour,Uncle Kracker,2009,Zaslav,,,-1.0,,1.0,,1.0,1.0,2.0,,,,4,5,,,Genre-bending Covers,Songs that are covers in a different genre than the original,Zaslav_6_1
+1,6,Make You Feel My Love,19,Adele,2008,Ojalvo,,,3.0,,2.0,,,,,,2.0,,7,3,soft pop,soft pop,Genre-bending Covers,Songs that are covers in a different genre than the original,Ojalvo_6_1
+1,6,What’s Up (What’s Going On),Bell Bottom Country,Lainey Wilson,2022,Leon,,,2.0,,-1.0,,2.0,1.0,1.0,,1.0,-1.0,5,7,country,country,Genre-bending Covers,Songs that are covers in a different genre than the original,Leon_6_1
+1,7,Grease,The Very Best of Frankie Valli & The 4 Seasons,Frankie Valli,2003,Ojalvo,,1.0,2.0,,,1.0,,,,,1.0,,5,4,,,Brassy,Songs with horn sections in them,Ojalvo_7_1
+1,7,Martha My Dear - Remastered 2009,The Beatles (Remastered),The Beatles,1968,Schnall,,,,,,,,1.0,1.0,,,-1.0,1,3,classic rock; psychedelic rock,classic rock,Brassy,Songs with horn sections in them,Schnall_7_1
+1,7,All Of The Lights,My Beautiful Dark Twisted Fantasy,Kanye West,2010,Gorelick,,,,,2.0,,2.0,1.0,1.0,,,1.0,7,5,rap,rap,Brassy,Songs with horn sections in them,Gorelick_7_1
+1,7,September,"The Best Of Earth, Wind & Fire Vol. 1","Earth, Wind & Fire",1978,Fine,,,3.0,,1.0,,2.0,2.0,1.0,,,2.0,11,6,disco,disco,Brassy,Songs with horn sections in them,Fine_7_1
+1,7,"Quando, Quando, Quando (with Nelly Furtado)",It's Time,Michael Bublé; Nelly Furtado,2005,Zaslav,,,-1.0,,-1.0,-1.0,1.0,-1.0,-1.0,,-1.0,,-5,7,christmas,christmas,Brassy,Songs with horn sections in them,Zaslav_7_1
+1,7,Got To Get You Into My Life - Remastered 2009,Revolver (Remastered),The Beatles,1966,Martin,,2.0,,,1.0,3.0,-1.0,,1.0,,2.0,1.0,9,7,classic rock; psychedelic rock,classic rock,Brassy,Songs with horn sections in them,Martin_7_1
+1,7,Caralee,Hey Hello,Ripe,2015,Leon,,,,,2.0,,,1.0,1.0,,2.0,2.0,8,5,,,Brassy,Songs with horn sections in them,Leon_7_1
+1,7,BOSS,EVERYTHING IS LOVE,The Carters,2018,Hochhauser,,3.0,1.0,,,,1.0,,,,,,5,3,,,Brassy,Songs with horn sections in them,Hochhauser_7_1
+1,7,Trophies,Rise Of An Empire (Deluxe Edition),Young Money; Drake,2014,Maizes,,-1.0,,,,2.0,,1.0,1.0,,1.0,,4,5,rap; hip hop,rap,Brassy,Songs with horn sections in them,Maizes_7_1
+1,8,Hero,Loma Vista,Family of the Year,2012,Ojalvo,,1.0,3.0,,1.0,,,1.0,,,2.0,,8,5,,,Goosebumps,Songs that give you goosebumps,Ojalvo_8_1
+1,8,Space Oddity - 1999 Remaster,Best of Bowie,David Bowie,2002,Martin,,2.0,2.0,,-1.0,1.0,,,1.0,,1.0,1.0,7,7,glam rock; art rock,glam rock,Goosebumps,Songs that give you goosebumps,Martin_8_1
+1,8,Dancing On My Own,Only Human (Deluxe),Calum Scott,2018,Zaslav,,1.0,,,2.0,3.0,1.0,1.0,2.0,,,,10,6,soft pop,soft pop,Goosebumps,Songs that give you goosebumps,Zaslav_8_1
+1,8,See You Again (feat. Charlie Puth),See You Again (feat. Charlie Puth),Wiz Khalifa; Charlie Puth,2015,Fine,,,1.0,,1.0,2.0,1.0,,1.0,,-1.0,2.0,7,7,rap; soft pop; pop,rap,Goosebumps,Songs that give you goosebumps,Fine_8_1
+1,8,Monsters,Once Upon a Mind,James Blunt,2019,Leon,,,,,,,-1.0,3.0,1.0,,,3.0,6,4,,,Goosebumps,Songs that give you goosebumps,Leon_8_1
+1,8,love; not wrong (brave),vertigo,EDEN,2018,Schnall,,,,,2.0,,1.0,1.0,,,,,4,3,,,Goosebumps,Songs that give you goosebumps,Schnall_8_1
+1,8,Sol Invictus,Helios,Audiomachine,2012,Maizes,,-1.0,-1.0,,,,,-1.0,-1.0,,,,-4,4,orchestra,orchestra,Goosebumps,Songs that give you goosebumps,Maizes_8_1
+1,8,Time,Inception (Music from the Motion Picture),Hans Zimmer,2010,Gorelick,,1.0,,,,-1.0,2.0,,,,3.0,,5,4,soundtrack,soundtrack,Goosebumps,Songs that give you goosebumps,Gorelick_8_1
+1,8,BLUE SKY,INSANO,Kid Cudi,2024,Hochhauser,,1.0,,,,,1.0,,1.0,,,-1.0,2,4,,,Goosebumps,Songs that give you goosebumps,Hochhauser_8_1
+1,9,For the First Time,Science & Faith,The Script,2011,Schnall,,3.0,3.0,,,3.0,1.0,1.0,1.0,,,1.0,13,7,,,Cheers,Songs that mention or are about a drink,Schnall_9_1
+1,9,Ain't Enough Whiskey,We Were Cowboys,Kameron Marlowe,2022,Leon,,1.0,,,2.0,,1.0,1.0,,,,,5,4,country,country,Cheers,Songs that mention or are about a drink,Leon_9_1
+1,9,Chandelier,1000 Forms Of Fear (Deluxe Version),Sia,2015,Maizes,,1.0,-1.0,,,,,1.0,,,,,1,3,,,Cheers,Songs that mention or are about a drink,Maizes_9_1
+1,9,Tennessee Whiskey,Traveller,Chris Stapleton,2015,Zaslav,,,2.0,,2.0,2.0,1.0,,,,,,7,4,country,country,Cheers,Songs that mention or are about a drink,Zaslav_9_1
+1,9,Liquor Store Blues (feat. Damian Marley),Doo-Wops & Hooligans,Bruno Mars; Damian Marley,2010,Martin,,,,,1.0,,,,2.0,,,-1.0,2,3,reggae; ragga; roots reggae; dancehall,reggae,Cheers,Songs that mention or are about a drink,Martin_9_1
+1,9,Escape (The Pina Colada Song),Partners In Crime,Rupert Holmes,1979,Gorelick,,1.0,,,,,1.0,1.0,-1.0,,,3.0,5,5,,,Cheers,Songs that mention or are about a drink,Gorelick_9_1
+1,9,Swimming Pools (Drank) - Extended Version,"good kid, m.A.A.d city (Deluxe)",Kendrick Lamar,2012,Hochhauser,,,1.0,,,1.0,,1.0,2.0,,,,5,4,hip hop; west coast hip hop,hip hop,Cheers,Songs that mention or are about a drink,Hochhauser_9_1
+1,9,I Drink Wine,30,Adele,2021,Fine,,,,,1.0,,-1.0,1.0,1.0,,,,2,4,soft pop,soft pop,Cheers,Songs that mention or are about a drink,Fine_9_1
+1,9,Champagne and Pools (feat. Blackbear & Kyle),Happy Camper,Hoodie Allen; blackbear; Kyle,2016,Ojalvo,,-1.0,,,-1.0,-1.0,2.0,-1.0,,,,2.0,0,6,,,Cheers,Songs that mention or are about a drink,Ojalvo_9_1
+1,10,Redbone,"""Awaken, My Love!""",Childish Gambino,2016,Zaslav,,3.0,,,1.0,,,1.0,1.0,,,,6,4,,,Lane Changers,Songs by artists who were previously famous for something other than music,Zaslav_10_1
+1,10,I'm Outstanding,Shaq Diesel,Shaquille O'Neal,1993,Maizes,,1.0,,,1.0,,,,,,,1.0,3,3,dubstep,dubstep,Lane Changers,Songs by artists who were previously famous for something other than music,Maizes_10_1
+1,10,This Is War,This Is War,Thirty Seconds To Mars,2009,Gorelick,,-1.0,,,2.0,,2.0,1.0,1.0,,2.0,,7,6,modern rock,modern rock,Lane Changers,Songs by artists who were previously famous for something other than music,Gorelick_10_1
+1,10,ANGELS & DEMONS,Tell Me About Tomorrow,jxdn,2021,Hochhauser,,,-1.0,,,2.0,-1.0,-1.0,1.0,,-1.0,2.0,1,7,pop punk,pop punk,Lane Changers,Songs by artists who were previously famous for something other than music,Hochhauser_10_1
+1,10,I'm Just Ken,Barbie The Album,Ryan Gosling,2023,Fine,,,,,-1.0,-1.0,1.0,,1.0,,,1.0,1,5,,,Lane Changers,Songs by artists who were previously famous for something other than music,Fine_10_1
+1,10,On My Own,Teen Beach 2 (Original TV Movie Soundtrack),Ross Lynch,2015,Leon,,,,,,,1.0,1.0,,,2.0,2.0,6,4,,,Lane Changers,Songs by artists who were previously famous for something other than music,Leon_10_1
+1,10,3005,Because the Internet,Childish Gambino,2013,Martin,,,1.0,,2.0,,,,2.0,,,,5,3,,,Lane Changers,Songs by artists who were previously famous for something other than music,Martin_10_1
+1,10,Slide Away,SHE IS COMING,Miley Cyrus,2019,Ojalvo,,,2.0,,,1.0,1.0,2.0,,,2.0,-1.0,7,6,,,Lane Changers,Songs by artists who were previously famous for something other than music,Ojalvo_10_1
+1,10,Snow Angel,Snow Angel,Reneé Rapp,2023,Schnall,,2.0,3.0,,,3.0,1.0,1.0,-1.0,,,,9,6,,,Lane Changers,Songs by artists who were previously famous for something other than music,Schnall_10_1
+1,11,Silver Lining,Mt. Joy,Mt. Joy,2018,Leon,,,2.0,,,,1.0,1.0,1.0,,,,5,4,,,Guitar,Songs that prominently feature a guitar,Leon_11_1
+1,11,On The Way,On The Way,Hollow Coves,2023,Maizes,,,3.0,,-1.0,2.0,,1.0,1.0,,1.0,,7,6,indie folk,indie folk,Guitar,Songs that prominently feature a guitar,Maizes_11_1
+1,11,Pride and Joy,Texas Flood (Legacy Edition),Stevie Ray Vaughan,1983,Ojalvo,,-1.0,,,2.0,,2.0,-1.0,,,-1.0,,1,5,blues; blues rock; classic blues; southern rock; modern blues,blues,Guitar,Songs that prominently feature a guitar,Ojalvo_11_1
+1,11,When I Come Around,Dookie,Green Day,1994,Martin,,,,,,,2.0,,1.0,,1.0,,4,3,punk; pop punk,punk,Guitar,Songs that prominently feature a guitar,Martin_11_1
+1,11,All Along the Watchtower,Electric Ladyland,Jimi Hendrix,1968,Fine,,,,,1.0,1.0,,1.0,1.0,,,,4,4,psychedelic rock; classic rock; acid rock; blues rock,psychedelic rock,Guitar,Songs that prominently feature a guitar,Fine_11_1
+1,11,While My Guitar Gently Weeps - Remastered 2009,The Beatles (Remastered),The Beatles,1968,Schnall,,,-1.0,,1.0,,,1.0,-1.0,,,,0,4,classic rock; psychedelic rock,classic rock,Guitar,Songs that prominently feature a guitar,Schnall_11_1
+1,11,Blue Sky,Eat A Peach,Allman Brothers Band,1972,Hochhauser,,,1.0,,,3.0,1.0,,1.0,,2.0,,8,5,southern rock; classic rock; blues rock; country rock,southern rock,Guitar,Songs that prominently feature a guitar,Hochhauser_11_1
+1,11,Wish You Were Here,Wish You Were Here,Pink Floyd,1975,Zaslav,,3.0,,,2.0,,,1.0,,,2.0,,8,4,progressive rock; psychedelic rock; classic rock; symphonic rock; art rock; rock,progressive rock,Guitar,Songs that prominently feature a guitar,Zaslav_11_1
+1,11,Sweet Child O' Mine,Appetite For Destruction,Guns N' Roses,1987,Gorelick,,3.0,,,,-1.0,-1.0,1.0,1.0,,,,3,5,rock; glam metal; hard rock; classic rock,rock,Guitar,Songs that prominently feature a guitar,Gorelick_11_1
+1,12,Clocks,A Rush of Blood to the Head,Coldplay,2002,Maizes,,1.0,3.0,,2.0,,,1.0,1.0,,2.0,,10,6,,,Piano,Songs that prominently feature a piano,Maizes_12_1
+1,12,Falling,Fine Line,Harry Styles,2019,Fine,,,,,2.0,3.0,,1.0,1.0,,1.0,2.0,10,6,,,Piano,Songs that prominently feature a piano,Fine_12_1
+1,12,How to Be Yours,I'll Be the Branches,Chris Renzema,2018,Leon,,1.0,,,,,2.0,1.0,1.0,,2.0,1.0,8,6,christian folk; worship; christian alternative rock; christian,christian folk,Piano,Songs that prominently feature a piano,Leon_12_1
+1,12,Prelude / Angry Young Man,Turnstiles,Billy Joel,1976,Martin,,,2.0,,,,1.0,,2.0,,,1.0,6,4,soft rock,soft rock,Piano,Songs that prominently feature a piano,Martin_12_1
+1,12,Runaway,My Beautiful Dark Twisted Fantasy,Kanye West; Pusha T,2010,Hochhauser,,2.0,1.0,,,1.0,1.0,1.0,1.0,,1.0,,8,7,rap,rap,Piano,Songs that prominently feature a piano,Hochhauser_12_1
+1,12,Colder Weather,You Get What You Give,Zac Brown Band,2010,Schnall,,2.0,,,1.0,2.0,1.0,1.0,,,,-1.0,6,6,country; acoustic country,country,Piano,Songs that prominently feature a piano,Schnall_12_1
+1,12,engravings,engravings,Ethan Bortnick,2022,Zaslav,,-1.0,-1.0,,,,1.0,-1.0,-1.0,,-1.0,,-4,6,,,Piano,Songs that prominently feature a piano,Zaslav_12_1
+1,12,"Clair de Lune, L. 32",Debussy: Clair De Lune and Other Piano Favourites,Claude Debussy; Martin Jones,1994,Gorelick,,,,,-1.0,-1.0,-1.0,,,,,2.0,-1,4,classical piano; classical,classical piano,Piano,Songs that prominently feature a piano,Gorelick_12_1
+1,12,I And Love And You,I And Love And You,The Avett Brothers,2009,Ojalvo,,,,,1.0,,,1.0,,,,,2,2,indie folk; folk; americana; bluegrass; newgrass; alt country; folk rock,indie folk,Piano,Songs that prominently feature a piano,Ojalvo_12_1
+1,13,Bad Romance,The Fame Monster (Deluxe Edition),Lady Gaga,2009,Zaslav,,-1.0,-1.0,,,,1.0,1.0,-1.0,,1.0,,0,6,art pop; pop,art pop,Alarm Clock,Songs that get you up and going in the morning,Zaslav_13_1
+1,13,Live Like We're Dying,Kris Allen,Kris Allen,2009,Martin,,,,,3.0,-1.0,1.0,,1.0,,1.0,-1.0,4,6,,,Alarm Clock,Songs that get you up and going in the morning,Martin_13_1
+1,13,Beautiful Day,All That You Can't Leave Behind,U2,2000,Leon,,1.0,2.0,,2.0,,1.0,1.0,,,3.0,2.0,12,7,rock,rock,Alarm Clock,Songs that get you up and going in the morning,Leon_13_1
+1,13,Mr. Blue Sky,Out of the Blue,Electric Light Orchestra,1977,Schnall,,,3.0,,,,2.0,1.0,1.0,,,3.0,10,5,symphonic rock; art rock,symphonic rock,Alarm Clock,Songs that get you up and going in the morning,Schnall_13_1
+1,13,Riptide,Dream Your Life Away (Special Edition),Vance Joy,2014,Gorelick,,2.0,,,,,1.0,1.0,1.0,,-1.0,1.0,5,6,folk pop,folk pop,Alarm Clock,Songs that get you up and going in the morning,Gorelick_13_1
+1,13,Young Volcanoes,Save Rock And Roll,Fall Out Boy,2013,Maizes,,,,,1.0,,,2.0,,,,,3,2,emo; pop punk; emo pop,emo,Alarm Clock,Songs that get you up and going in the morning,Maizes_13_1
+1,13,Tomorrow May Not Be Your Day,Happy Just To Be Like I Am,Taj Mahal,1971,Fine,,,,,-1.0,2.0,,,2.0,,,,3,3,blues; classic blues; country blues; jazz blues; blues rock; modern blues,blues,Alarm Clock,Songs that get you up and going in the morning,Fine_13_1
+1,13,Good Days,SOS,SZA,2022,Ojalvo,,1.0,,,,3.0,-1.0,-1.0,,,,,2,4,r&b,r&b,Alarm Clock,Songs that get you up and going in the morning,Ojalvo_13_1
+1,13,Good Morning,Graduation,Kanye West,2007,Hochhauser,,2.0,1.0,,,1.0,,,1.0,,1.0,,6,5,rap,rap,Alarm Clock,Songs that get you up and going in the morning,Hochhauser_13_1
+1,14,"Let It Go - From ""Frozen""/Soundtrack Version",Frozen (Original Motion Picture Soundtrack / Deluxe Edition),Idina Menzel,2013,Maizes,,2.0,-1.0,,,,,1.0,,,,,2,3,musicals,musicals,Winter,Songs that make you think of winter,Maizes_14_1
+1,14,Cherry Wine - Live,Hozier (Expanded Edition),Hozier,2014,Leon,,-1.0,,,1.0,,1.0,,,,,,1,3,,,Winter,Songs that make you think of winter,Leon_14_1
+1,14,California Dreamin',All The Leaves Are Brown The Golden Era Collection,The Mamas & The Papas,2001,Zaslav,,,,,,1.0,,3.0,1.0,,1.0,,6,4,folk rock,folk rock,Winter,Songs that make you think of winter,Zaslav_14_1
+1,14,Violet Hill,Viva La Vida or Death and All His Friends,Coldplay,2008,Schnall,,,3.0,,2.0,2.0,1.0,1.0,2.0,,,3.0,14,7,,,Winter,Songs that make you think of winter,Schnall_14_1
+1,14,Sweater Weather,I Love You.,The Neighbourhood,2013,Fine,,,1.0,,2.0,1.0,,,2.0,,,,6,4,,,Winter,Songs that make you think of winter,Fine_14_1
+1,14,Coldest Winter,808s & Heartbreak,Kanye West,2008,Ojalvo,,,,,1.0,,-1.0,,,,1.0,2.0,3,4,rap,rap,Winter,Songs that make you think of winter,Ojalvo_14_1
+1,14,"Do You Want to Build a Snowman? - From ""Frozen""/Soundtrack Version",Frozen (Original Motion Picture Soundtrack / Deluxe Edition),Kristen Bell; Agatha Lee Monn; Katie Lopez,2013,Gorelick,,3.0,,,-1.0,-1.0,1.0,-1.0,-1.0,,-1.0,1.0,0,8,,,Winter,Songs that make you think of winter,Gorelick_14_1
+1,14,Northern Attitude,Stick Season,Noah Kahan,2022,Hochhauser,,,2.0,,,2.0,1.0,1.0,,,2.0,,8,5,,,Winter,Songs that make you think of winter,Hochhauser_14_1
+1,14,"December, 1963 (Oh What a Night!)",The Very Best of Frankie Valli & The 4 Seasons,Frankie Valli & The Four Seasons,2003,Martin,,1.0,,,,,2.0,,1.0,,2.0,-1.0,5,5,doo-wop; northern soul,doo-wop,Winter,Songs that make you think of winter,Martin_14_1
+1,15,Born in the U.S.A.,Born In The U.S.A.,Bruce Springsteen,1984,Maizes,,1.0,2.0,,,2.0,,2.0,1.0,,,1.0,9,6,,,BBQ,Songs perfect to play at a barbeque,Maizes_15_1
+1,15,Chicken Fried,The Foundation,Zac Brown Band,2008,Leon,,,-1.0,,,,1.0,1.0,1.0,,,1.0,3,5,country; acoustic country,country,BBQ,Songs perfect to play at a barbeque,Leon_15_1
+1,15,American Pie,American Pie,Don McLean,1971,Schnall,,1.0,,,2.0,,2.0,,,,,,5,3,,,BBQ,Songs perfect to play at a barbeque,Schnall_15_1
+1,15,Starting Over,Starting Over,Chris Stapleton,2020,Fine,,,,,,2.0,,1.0,,,,-1.0,2,3,country,country,BBQ,Songs perfect to play at a barbeque,Fine_15_1
+1,15,I Ain't Worried,"I Ain’t Worried (Music From The Motion Picture ""Top Gun: Maverick"")",OneRepublic,2022,Gorelick,,-1.0,,,2.0,-1.0,-1.0,1.0,-1.0,,,2.0,1,7,soft pop,soft pop,BBQ,Songs perfect to play at a barbeque,Gorelick_15_1
+1,15,Feelin' Alright?,Traffic,Traffic,1968,Hochhauser,,1.0,,,,1.0,1.0,,,,,2.0,5,4,acid rock; psychedelic rock; classic rock; progressive rock,acid rock,BBQ,Songs perfect to play at a barbeque,Hochhauser_15_1
+1,15,The Sound Of Sunshine,The Sound Of Sunshine,Michael Franti & Spearhead,2010,Zaslav,,1.0,3.0,,-1.0,,1.0,1.0,3.0,,,,8,6,,,BBQ,Songs perfect to play at a barbeque,Zaslav_15_1
+1,15,Better,Suncity,Khalid,2018,Ojalvo,,1.0,1.0,,,,,-1.0,,,,,1,3,,,BBQ,Songs perfect to play at a barbeque,Ojalvo_15_1
+1,15,Sweet Home Alabama,Second Helping (Expanded Edition),Lynyrd Skynyrd,1974,Martin,,1.0,,,2.0,1.0,1.0,,1.0,,,,6,5,southern rock; classic rock; rock,southern rock,BBQ,Songs perfect to play at a barbeque,Martin_15_1
+1,16,Make It Out,The Stews EP,The Stews,2021,Leon,,3.0,-1.0,,2.0,,1.0,1.0,1.0,,3.0,1.0,11,8,,,Start Here,Songs you would use to introduce someone to a band or musician,Leon_16_1
+1,16,So Good,So Good,Weston Estate,2022,Zaslav,,,,,2.0,,,,2.0,,,,4,2,,,Start Here,Songs you would use to introduce someone to a band or musician,Zaslav_16_1
+1,16,It Gets Dark,How To Let Go,Sigrid,2022,Ojalvo,,-1.0,3.0,,-1.0,1.0,,1.0,,,3.0,,6,6,norwegian pop,norwegian pop,Start Here,Songs you would use to introduce someone to a band or musician,Ojalvo_16_1
+1,16,I Wasn't Ready,It's Gonna Be OK,BANNERS,2021,Schnall,,,2.0,,1.0,1.0,3.0,1.0,,,,1.0,9,6,,,Start Here,Songs you would use to introduce someone to a band or musician,Schnall_16_1
+1,16,Baba O'Riley,Who's Next (Deluxe Edition),The Who,1971,Maizes,,1.0,,,,,,1.0,,,,,2,2,classic rock; rock,classic rock,Start Here,Songs you would use to introduce someone to a band or musician,Maizes_16_1
+1,16,Family Business,The College Dropout,Kanye West,2004,Fine,,,1.0,,,,-1.0,-1.0,1.0,,-1.0,-1.0,-2,6,rap,rap,Start Here,Songs you would use to introduce someone to a band or musician,Fine_16_1
+1,16,Truth Is,Truth Is,Mikey Ferrari,2021,Hochhauser,,1.0,,,,2.0,1.0,2.0,1.0,,,3.0,10,6,,,Start Here,Songs you would use to introduce someone to a band or musician,Hochhauser_16_1
+1,16,Golden Dandelions,The Attractions Of Youth,Barns Courtney,2017,Martin,,,,,,2.0,1.0,,-1.0,,,,2,3,gothic country,gothic country,Start Here,Songs you would use to introduce someone to a band or musician,Martin_16_1
+1,16,See You Again (feat. Kali Uchis),Flower Boy,"Tyler, The Creator; Kali Uchis",2017,Gorelick,,1.0,,,1.0,-1.0,,,1.0,,,1.0,3,5,,,Start Here,Songs you would use to introduce someone to a band or musician,Gorelick_16_1
+1,17,West Coast,West Coast,OneRepublic,2022,Schnall,,,3.0,,,,,1.0,,,,,4,2,soft pop,soft pop,Spring,Songs that make you think of spring,Schnall_17_1
+1,17,Pocketful of Sunshine,Pocketful Of Sunshine,Natasha Bedingfield,2007,Zaslav,,2.0,1.0,,2.0,,1.0,1.0,1.0,,2.0,,10,7,,,Spring,Songs that make you think of spring,Zaslav_17_1
+1,17,"Welcome - From ""Brother Bear""/Soundtrack Version",Brother Bear,Phil Collins,2003,Maizes,,-1.0,,,-1.0,,,,,,,-1.0,-3,3,soft rock,soft rock,Spring,Songs that make you think of spring,Maizes_17_1
+1,17,Centerfield,Centerfield – 25th Anniversary,John Fogerty,2017,Ojalvo,,,,,1.0,3.0,1.0,1.0,,,3.0,2.0,11,6,country rock,country rock,Spring,Songs that make you think of spring,Ojalvo_17_1
+1,17,BLACK BALLOONS | 13LACK 13ALLOONZ [FEAT. TWELVE'LEN & GOLDLINK | TWELVE'LEN + GOLDL1NK],TA13OO,Denzel Curry; Twelve'len; GoldLink,2018,Hochhauser,,,-1.0,,,-1.0,,,-1.0,,-1.0,,-4,4,punk rap,punk rap,Spring,Songs that make you think of spring,Hochhauser_17_1
+1,17,Here Comes The Sun - Remastered 2009,Abbey Road (Remastered),The Beatles,1969,Fine,,,2.0,,,1.0,1.0,3.0,1.0,,,1.0,9,6,classic rock; psychedelic rock,classic rock,Spring,Songs that make you think of spring,Fine_17_1
+1,17,Blossom - 2019 Remaster,Sweet Baby James (2019 Remaster),James Taylor,1970,Martin,,3.0,,,,2.0,-1.0,,2.0,,,1.0,7,5,folk rock; soft rock; singer-songwriter,folk rock,Spring,Songs that make you think of spring,Martin_17_1
+1,17,Surefire,Wilderado,Wilderado,2021,Leon,,,,,2.0,,2.0,,,,1.0,,5,3,,,Spring,Songs that make you think of spring,Leon_17_1
+1,17,Slide (feat. Frank Ocean & Migos),Funk Wav Bounces Vol.1,Calvin Harris; Frank Ocean; Migos; Funk Wav,2017,Gorelick,,1.0,,,1.0,,1.0,-1.0,2.0,,,2.0,6,6,edm; trap,edm,Spring,Songs that make you think of spring,Gorelick_17_1
+1,18,The Night We Met (feat. Phoebe Bridgers),13 Reasons Why (Season 2),Lord Huron; Phoebe Bridgers,2018,Leon,,1.0,,,,,1.0,1.0,2.0,,,,5,4,,,Soundtrack 2 My Life,Songs that you discovered or heard for the first time in a movie or TV show. Be creative if you can!,Leon_18_1
+1,18,Til Kingdom Come,X&Y,Coldplay,2005,Martin,,2.0,1.0,,2.0,2.0,1.0,,,,3.0,,11,6,,,Soundtrack 2 My Life,Songs that you discovered or heard for the first time in a movie or TV show. Be creative if you can!,Martin_18_1
+1,18,I'll Make a Man Out of You,Mulan (Original Soundtrack),Donny Osmond; Chorus - Mulan; Disney,1998,Gorelick,,1.0,,,-1.0,-1.0,2.0,1.0,,,,,2,5,,,Soundtrack 2 My Life,Songs that you discovered or heard for the first time in a movie or TV show. Be creative if you can!,Gorelick_18_1
+1,18,"If You Want To Sing Out, Sing Out",Tea For The Tillerman (Super Deluxe),Yusuf / Cat Stevens,2020,Fine,,,,,2.0,2.0,1.0,1.0,2.0,,2.0,,10,6,folk rock; folk; singer-songwriter,folk rock,Soundtrack 2 My Life,Songs that you discovered or heard for the first time in a movie or TV show. Be creative if you can!,Fine_18_1
+1,18,Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By,Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By),Rihanna,2022,Zaslav,,1.0,,,,,-1.0,1.0,1.0,,1.0,,3,5,,,Soundtrack 2 My Life,Songs that you discovered or heard for the first time in a movie or TV show. Be creative if you can!,Zaslav_18_1
+1,18,The World Is Mine (Whole World Ahead),The World Is Mine (Whole World Ahead),Samm Henshaw,2019,Ojalvo,,,3.0,,1.0,,,1.0,,,,,5,3,,,Soundtrack 2 My Life,Songs that you discovered or heard for the first time in a movie or TV show. Be creative if you can!,Ojalvo_18_1
+1,18,Runnin',Hidden Figures: The Album,Pharrell Williams,2016,Hochhauser,,1.0,,,,,,,,,,,1,1,,,Soundtrack 2 My Life,Songs that you discovered or heard for the first time in a movie or TV show. Be creative if you can!,Hochhauser_18_1
+1,18,The Funeral,Everything All The Time,Band of Horses,2006,Schnall,,,2.0,,1.0,2.0,1.0,1.0,1.0,,,,8,6,,,Soundtrack 2 My Life,Songs that you discovered or heard for the first time in a movie or TV show. Be creative if you can!,Schnall_18_1
+1,18,Project X Soundtrack- Pursuit of Happiness,We Can't Stop the Music Arena,Disco Trap,2013,Maizes,,-1.0,-1.0,,,,,-1.0,-1.0,,-1.0,,-5,5,,,Soundtrack 2 My Life,Songs that you discovered or heard for the first time in a movie or TV show. Be creative if you can!,Maizes_18_1
+1,19,Wake Me Up,True,Avicii,2013,Maizes,,1.0,3.0,,,,,,2.0,,,,6,3,edm,edm,"I'm Sorry, Officer",Songs that make you drive fast,Maizes_19_1
+1,19,Sex on Fire,Only By The Night,Kings of Leon,2008,Leon,,,-1.0,,,,,,2.0,,3.0,2.0,6,4,modern rock,modern rock,"I'm Sorry, Officer",Songs that make you drive fast,Leon_19_1
+1,19,Tusk,Greatest Hits,Fleetwood Mac,1988,Fine,,,,,,,-1.0,,-1.0,,,,-2,2,classic rock; soft rock,classic rock,"I'm Sorry, Officer",Songs that make you drive fast,Fine_19_1
+1,19,Livin' On A Prayer,Slippery When Wet,Bon Jovi,1986,Martin,,1.0,1.0,,,,2.0,,,,2.0,1.0,7,5,glam metal; rock,glam metal,"I'm Sorry, Officer",Songs that make you drive fast,Martin_19_1
+1,19,Born To Be Wild - Single Version,Steppenwolf,Steppenwolf,1968,Hochhauser,,1.0,,,,2.0,1.0,2.0,1.0,,,3.0,10,6,classic rock; acid rock,classic rock,"I'm Sorry, Officer",Songs that make you drive fast,Hochhauser_19_1
+1,19,Fortunate Son,Willy And The Poor Boys (Expanded Edition),Creedence Clearwater Revival,1969,Zaslav,,2.0,2.0,,,2.0,1.0,1.0,1.0,,-1.0,,8,7,classic rock; southern rock; country rock,classic rock,"I'm Sorry, Officer",Songs that make you drive fast,Zaslav_19_1
+1,19,Oh Boy,Come Home With Me,Cam'ron; Juelz Santana,2002,Ojalvo,,,,,,-1.0,,-1.0,,,1.0,,-1,3,east coast hip hop,east coast hip hop,"I'm Sorry, Officer",Songs that make you drive fast,Ojalvo_19_1
+1,19,Polaroid,Smoke + Mirrors (Deluxe),Imagine Dragons,2015,Schnall,,-1.0,,,,,2.0,1.0,,,,,2,3,,,"I'm Sorry, Officer",Songs that make you drive fast,Schnall_19_1
+1,19,Black Skinhead,Yeezus,Kanye West,2013,Gorelick,,1.0,,,,2.0,,2.0,,,,-1.0,4,4,rap,rap,"I'm Sorry, Officer",Songs that make you drive fast,Gorelick_19_1
+1,20,Summer on You,Summer on You,PRETTYMUCH,2018,Martin,,1.0,,,,,2.0,,,,,3.0,6,3,,,Boy Bands,Songs by boy bands,Martin_20_1
+1,20,Amnesia,5 Seconds Of Summer,5 Seconds of Summer,2014,Schnall,,3.0,,,,2.0,2.0,2.0,2.0,,,2.0,13,6,,,Boy Bands,Songs by boy bands,Schnall_20_1
+1,20,Olivia,Made In The A.M. (Deluxe Edition),One Direction,2015,Leon,,,-1.0,,,,-1.0,1.0,1.0,,,,0,4,,,Boy Bands,Songs by boy bands,Leon_20_1
+1,20,I Want You Back,Diana Ross Presents The Jackson 5,The Jackson 5,1969,Fine,,,3.0,,,1.0,1.0,1.0,1.0,,,-1.0,6,6,motown; christmas,motown,Boy Bands,Songs by boy bands,Fine_20_1
+1,20,Silence,Maggie Valley,Weston Estate,2022,Zaslav,,,2.0,,,2.0,1.0,-1.0,2.0,,,,6,5,,,Boy Bands,Songs by boy bands,Zaslav_20_1
+1,20,Bye Bye Bye,No Strings Attached,*NSYNC,2000,Gorelick,,2.0,,,,,,2.0,-1.0,,,,3,3,,,Boy Bands,Songs by boy bands,Gorelick_20_1
+1,20,Year 3000,It's About Time,Jonas Brothers,2006,Ojalvo,,-1.0,1.0,,,-1.0,,,,,,,-1,3,,,Boy Bands,Songs by boy bands,Ojalvo_20_1
+1,20,My Condition,FISSION,Dead Poet Society,2024,Maizes,,,,,,1.0,,,,,,1.0,2,2,,,Boy Bands,Songs by boy bands,Maizes_20_1
+1,21,Cupid Shuffle,Time for a Change,Cupid,2007,Zaslav,,2.0,3.0,,1.0,2.0,2.0,1.0,-1.0,,2.0,,12,8,,,I Gotta Move!,Songs that make you dance,Zaslav_21_1
+1,21,I'm Still Standing,Too Low For Zero,Elton John,1983,Ojalvo,,,1.0,,2.0,1.0,1.0,3.0,,,,1.0,9,6,,,I Gotta Move!,Songs that make you dance,Ojalvo_21_1
+1,21,Boogie Shoes,KC & the Sunshine Band... and More,KC & The Sunshine Band,1994,Fine,,,,,,,1.0,,2.0,,,,3,2,disco,disco,I Gotta Move!,Songs that make you dance,Fine_21_1
+1,21,Uptown Funk (feat. Bruno Mars),Uptown Special,Mark Ronson; Bruno Mars,2015,Hochhauser,,1.0,,,,1.0,,1.0,,,,,3,3,,,I Gotta Move!,Songs that make you dance,Hochhauser_21_1
+1,21,Younger Years,American Heartbreak,Zach Bryan,2022,Leon,,,-1.0,,1.0,,,,,,1.0,-1.0,0,4,country; red dirt,country,I Gotta Move!,Songs that make you dance,Leon_21_1
+1,21,Rasputin,Nightflight to Venus,Boney M.,1978,Gorelick,,-1.0,,,,-1.0,,-1.0,1.0,,1.0,2.0,1,6,disco,disco,I Gotta Move!,Songs that make you dance,Gorelick_21_1
+1,21,Tell Me You Love Me,The Aviary,Galantis; Throttle,2017,Schnall,,2.0,2.0,,,,2.0,,2.0,,,1.0,9,5,future house,future house,I Gotta Move!,Songs that make you dance,Schnall_21_1
+1,21,Spaghetti Polonaise,Spaghetti Polonaise,Dorfrocker; Kings of Günter,2024,Maizes,,,,,-1.0,1.0,,1.0,,,-1.0,2.0,2,5,schlagerparty; schlager,schlagerparty,I Gotta Move!,Songs that make you dance,Maizes_21_1
+1,21,Down,All Or Nothing,Jay Sean; Lil Wayne,2009,Martin,,1.0,,,2.0,1.0,-1.0,,1.0,,2.0,,6,6,rap; hip hop,rap,I Gotta Move!,Songs that make you dance,Martin_21_1
+1,22,Name,A Boy Named Goo,The Goo Goo Dolls,1995,Maizes,,,,,2.0,1.0,,,1.0,,2.0,-1.0,5,5,,,Birth Year,Songs originally released the year you were born,Maizes_22_1
+1,22,Wannabe,Spice,Spice Girls,1996,Gorelick,,,,,,-1.0,1.0,,-1.0,,,1.0,0,4,,,Birth Year,Songs originally released the year you were born,Gorelick_22_1
+1,22,Over My Head (Cable Car),How To Save A Life,The Fray,2005,Leon,,,1.0,,2.0,,,1.0,2.0,,1.0,,7,5,,,Birth Year,Songs originally released the year you were born,Leon_22_1
+1,22,Hero,Escape,Enrique Iglesias,2001,Schnall,,,-1.0,,,2.0,1.0,3.0,,,,1.0,6,5,latin pop; latin,latin pop,Birth Year,Songs originally released the year you were born,Schnall_22_1
+1,22,Hard to Concentrate,Stadium Arcadium,Red Hot Chili Peppers,2006,Hochhauser,,,1.0,,,1.0,1.0,1.0,1.0,,3.0,,8,6,funk rock; alternative rock; rock,funk rock,Birth Year,Songs originally released the year you were born,Hochhauser_22_1
+1,22,Can't Get You out of My Head,Fever,Kylie Minogue,2001,Zaslav,,,2.0,,-1.0,,-1.0,-1.0,1.0,,-1.0,,-1,6,dance pop,dance pop,Birth Year,Songs originally released the year you were born,Zaslav_22_1
+1,22,The Real Slim Shady,The Marshall Mathers LP,Eminem,2000,Ojalvo,,,2.0,,1.0,,1.0,1.0,,,,2.0,7,5,rap; hip hop,rap,Birth Year,Songs originally released the year you were born,Ojalvo_22_1
+1,22,Good Riddance (Time of Your Life),Nimrod,Green Day,1997,Martin,,,,,1.0,2.0,2.0,,1.0,,,2.0,8,5,punk; pop punk,punk,Birth Year,Songs originally released the year you were born,Martin_22_1
+1,23,Behind These Hazel Eyes,Breakaway,Kelly Clarkson,2004,Zaslav,,,1.0,,1.0,,1.0,2.0,1.0,,2.0,,8,6,christmas,christmas,Colors,Songs that have a color in the title,Zaslav_23_1
+1,23,Itsy Bitsy Teenie Weenie Yellow Polka-Dot Bikini,Greatest Hits,Brian Hyland,1994,Maizes,,,,,-1.0,-1.0,,,1.0,,-1.0,2.0,0,5,,,Colors,Songs that have a color in the title,Maizes_23_1
+1,23,Yellow Ledbetter,Jeremy,Pearl Jam,1991,Hochhauser,,,-1.0,,,2.0,,,1.0,,1.0,,3,4,grunge; rock; post-grunge,grunge,Colors,Songs that have a color in the title,Hochhauser_23_1
+1,23,Pink + White,Blonde,Frank Ocean,2016,Gorelick,,,,,2.0,,1.0,-1.0,1.0,,,1.0,4,5,,,Colors,Songs that have a color in the title,Gorelick_23_1
+1,23,Orange Juice,Stick Season (We'll All Be Here Forever),Noah Kahan,2023,Leon,,,,,1.0,,1.0,1.0,1.0,,1.0,2.0,7,6,,,Colors,Songs that have a color in the title,Leon_23_1
+1,23,Big Yellow Taxi,Hard Candy,Counting Crows; Vanessa Carlton,2002,Ojalvo,,,2.0,,,2.0,2.0,2.0,,,,,8,4,,,Colors,Songs that have a color in the title,Ojalvo_23_1
+1,23,Green Light,Melodrama,Lorde,2017,Schnall,,,1.0,,1.0,1.0,-1.0,1.0,-1.0,,,-1.0,1,7,,,Colors,Songs that have a color in the title,Schnall_23_1
+1,23,Welcome to the Black Parade,The Black Parade,My Chemical Romance,2006,Martin,,,2.0,,1.0,1.0,1.0,,1.0,,2.0,1.0,9,7,emo; pop punk; emo pop,emo,Colors,Songs that have a color in the title,Martin_23_1
+1,24,Home,The World From The Side Of The Moon,Phillip Phillips,2012,Schnall,,,3.0,,2.0,2.0,1.0,1.0,1.0,,,1.0,11,7,folk pop,folk pop,Unplugged,Acoustic songs,Schnall_24_1
+1,24,Fire and Rain - 2019 Remaster,Sweet Baby James (2019 Remaster),James Taylor,1970,Ojalvo,,,2.0,,2.0,2.0,,2.0,,,2.0,1.0,11,6,folk rock; soft rock; singer-songwriter,folk rock,Unplugged,Acoustic songs,Ojalvo_24_1
+1,24,The Places You Have Come to Fear the Most,The Places You Have Come to Fear the Most,Dashboard Confessional,2001,Maizes,,,,,,-1.0,,1.0,-1.0,,,1.0,0,4,emo; emo pop; pop punk,emo,Unplugged,Acoustic songs,Maizes_24_1
+1,24,Tears in Heaven - Acoustic Live,Unplugged (Deluxe Edition) (Live),Eric Clapton,1992,Leon,,,,,1.0,,-1.0,,1.0,,1.0,3.0,5,5,blues; blues rock; classic rock,blues,Unplugged,Acoustic songs,Leon_24_1
+1,24,Blackbird - Remastered 2009,The Beatles (Remastered),The Beatles,1968,Gorelick,,,,,1.0,1.0,1.0,1.0,2.0,,1.0,,7,6,classic rock; psychedelic rock,classic rock,Unplugged,Acoustic songs,Gorelick_24_1
+1,24,Hell Of A Way To Go - Acoustic,Hell Of A Way To Go (Acoustic),Riley Green,2022,Hochhauser,,,,,,,1.0,-1.0,,,-1.0,-1.0,-2,4,country,country,Unplugged,Acoustic songs,Hochhauser_24_1
+1,24,Dust in the Wind,Point Of Know Return (Expanded Edition),Kansas,1977,Zaslav,,,1.0,,,,1.0,1.0,1.0,,1.0,,5,5,classic rock; progressive rock; album rock,classic rock,Unplugged,Acoustic songs,Zaslav_24_1
+1,24,Demons - Acoustic Live In London,Demons,Imagine Dragons,2013,Martin,,,-1.0,,-1.0,1.0,2.0,,1.0,,1.0,,3,6,,,Unplugged,Acoustic songs,Martin_24_1
+1,25,With A Little Help From My Friends,With A Little Help From My Friends,Joe Cocker,1969,Hochhauser,,,,,,1.0,-1.0,-1.0,1.0,,2.0,2.0,4,6,,,Up-leveled Covers,Cover songs that you believe are better than the original,Hochhauser_25_1
+1,25,Happier Than Ever,Kellyoke,Kelly Clarkson,2022,Schnall,,,,,-1.0,,1.0,1.0,,,,-1.0,0,4,christmas,christmas,Up-leveled Covers,Cover songs that you believe are better than the original,Schnall_25_1
+1,25,Wicked Game,The World From The Side Of The Moon (Deluxe),Phillip Phillips,2013,Martin,,,,,2.0,2.0,1.0,,1.0,,1.0,3.0,10,6,folk pop,folk pop,Up-leveled Covers,Cover songs that you believe are better than the original,Martin_25_1
+1,25,Into the Unknown - Panic! At The Disco Version,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Panic! At The Disco,2019,Gorelick,,,,,1.0,,2.0,1.0,-1.0,,-1.0,1.0,3,6,emo,emo,Up-leveled Covers,Cover songs that you believe are better than the original,Gorelick_25_1
+1,25,Life is a Highway,Cars (Original Motion Picture Soundtrack),Rascal Flatts,2006,Maizes,,,,,1.0,-1.0,,1.0,2.0,,1.0,,4,5,country,country,Up-leveled Covers,Cover songs that you believe are better than the original,Maizes_25_1
+1,25,Heart Of Glass (Live from the iHeart Festival),Plastic Hearts,Miley Cyrus,2020,Zaslav,,,,,1.0,3.0,1.0,2.0,2.0,,,,9,5,,,Up-leveled Covers,Cover songs that you believe are better than the original,Zaslav_25_1
+1,25,"Trapped - Live at Meadowlands Arena, E. Rutherford, NJ - August 1984",The Essential Bruce Springsteen (Bonus Tracks),Bruce Springsteen,2003,Leon,,,,,,,1.0,1.0,,,,,2,2,,,Up-leveled Covers,Cover songs that you believe are better than the original,Leon_25_1
+1,25,Blinded By The Light,The Roaring Silence,Manfred Mann's Earth Band,1976,Ojalvo,,,,,1.0,,,,,,2.0,,3,2,progressive rock; classic rock,progressive rock,Up-leveled Covers,Cover songs that you believe are better than the original,Ojalvo_25_1
+1,26,Bailando - Spanish Version,SEX AND LOVE (Deluxe),Enrique Iglesias; Descemer Bueno; Gente De Zona,2014,Martin,,,,,,2.0,1.0,,1.0,,2.0,2.0,8,5,latin pop; latin; latin dance,latin pop,Foreign Language,Songs that aren’t in English,Martin_26_1
+1,26,MIA (feat. Drake),MIA (feat. Drake),Bad Bunny; Drake,2018,Ojalvo,,,,,,2.0,-1.0,-1.0,,,-1.0,1.0,0,5,reggaeton; trap latino; urbano latino; latin; rap; hip hop,reggaeton,Foreign Language,Songs that aren’t in English,Ojalvo_26_1
+1,26,Leef,Leef,André Hazes Jr.,2016,Zaslav,,,,,,,1.0,,1.0,,1.0,,3,3,nederpop,nederpop,Foreign Language,Songs that aren’t in English,Zaslav_26_1
+1,26,Dragostea Din Tei,Memento Mori (Deluxe Version),Feuerschwanz,2021,Maizes,,,,,,-1.0,,3.0,-1.0,,2.0,1.0,4,5,medieval metal; medieval; folk metal; folk rock; power metal; pirate metal,medieval metal,Foreign Language,Songs that aren’t in English,Maizes_26_1
+1,26,Mon Amour - Remix,Mon Amour (Remix),zzoilo; Aitana,2021,Schnall,,,,,,2.0,2.0,2.0,2.0,,,2.0,10,5,latin pop,latin pop,Foreign Language,Songs that aren’t in English,Schnall_26_1
+1,26,un x100to,un x100to,Grupo Frontera; Bad Bunny,2023,Leon,,,,,,,2.0,1.0,2.0,,1.0,-1.0,5,5,cumbia norteña; banda; norteño; música mexicana; corrido; corridos tumbados; grupera; corridos bélicos; tejano; reggaeton; trap latino; urbano latino; latin,cumbia norteña,Foreign Language,Songs that aren’t in English,Leon_26_1
+1,27,Baseball Reference,"Going, Going, Gone",Ezekiel Banda,2023,Leon,,,-1.0,,-1.0,,1.0,-1.0,1.0,,,1.0,0,6,,,Sporty Spice,Songs that mention or are about sports or athletes,Leon_27_1
+1,27,Tyler Herro,Thats What They All Say,Jack Harlow,2020,Gorelick,,,,,1.0,-1.0,,,1.0,,,1.0,2,4,,,Sporty Spice,Songs that mention or are about sports or athletes,Gorelick_27_1
+1,27,Draft Day,Care Package,Drake,2019,Ojalvo,,,,,,1.0,-1.0,,,,,,0,2,rap; hip hop,rap,Sporty Spice,Songs that mention or are about sports or athletes,Ojalvo_27_1
+1,27,Heart Of A Champion,Sweat,Nelly; Lincoln University Vocal Ensemble,2004,Maizes,,,,,,1.0,,1.0,1.0,,,2.0,5,4,,,Sporty Spice,Songs that mention or are about sports or athletes,Maizes_27_1
+1,27,Lighters,Hell: The Sequel (Deluxe),Bad Meets Evil; Bruno Mars,2011,Schnall,,,1.0,,2.0,,1.0,3.0,-1.0,,,,6,5,,,Sporty Spice,Songs that mention or are about sports or athletes,Schnall_27_1
+1,27,White Iverson,Stoney (Deluxe),Post Malone,2016,Zaslav,,,2.0,,2.0,2.0,,,1.0,,,,7,4,,,Sporty Spice,Songs that mention or are about sports or athletes,Zaslav_27_1
+1,27,My Oh My,The Heist (Deluxe Edition),Macklemore & Ryan Lewis; Macklemore; Ryan Lewis,2012,Martin,,,3.0,,1.0,2.0,2.0,,1.0,,,2.0,11,6,,,Sporty Spice,Songs that mention or are about sports or athletes,Martin_27_1
+1,27,Ronald Reagan Era,Section.80,Kendrick Lamar,2011,Hochhauser,,,,,,,2.0,2.0,1.0,,,-1.0,4,4,hip hop; west coast hip hop,hip hop,Sporty Spice,Songs that mention or are about sports or athletes,Hochhauser_27_1
+1,28,Black Dog - Remaster,Led Zeppelin IV (Remaster),Led Zeppelin,1971,Hochhauser,,,,,,-1.0,2.0,-1.0,1.0,,,2.0,3,5,classic rock; rock; hard rock; rock and roll,classic rock,Pet Rock,Songs that mention or are about animals,Hochhauser_28_1
+1,28,Gorilla,Unorthodox Jukebox,Bruno Mars,2012,Zaslav,,,,,2.0,2.0,-1.0,1.0,1.0,,,,5,5,,,Pet Rock,Songs that mention or are about animals,Zaslav_28_1
+1,28,Bench Seat,I Hate Cowboys & All Dogs Go To Hell,Chase Rice,2023,Leon,,,,,-1.0,,2.0,2.0,-1.0,,,2.0,4,5,country; acoustic country,country,Pet Rock,Songs that mention or are about animals,Leon_28_1
+1,28,And Your Bird Can Sing - 2022 Mix,Revolver (Super Deluxe),The Beatles,2022,Martin,,,,,1.0,1.0,,,2.0,,,-1.0,3,4,classic rock; psychedelic rock,classic rock,Pet Rock,Songs that mention or are about animals,Martin_28_1
+1,28,Dark Horse,PRISM (Deluxe),Katy Perry; Juicy J,2013,Maizes,,,,,1.0,1.0,,1.0,2.0,,,1.0,6,5,pop; memphis rap; crunk,pop,Pet Rock,Songs that mention or are about animals,Maizes_28_1
+1,28,Dark Horse,Dark Horse,George Harrison,1974,Ojalvo,,,,,2.0,2.0,2.0,2.0,,,,1.0,9,5,,,Pet Rock,Songs that mention or are about animals,Ojalvo_28_1
+1,29,A ROCK,A ROCK,HARDY,2020,Leon,,,-1.0,,,,,2.0,,,,,1,2,country; country rock,country,Title Track,Songs that are also the title of the album they were originally released on,Leon_29_1
+1,29,Wish You Were Here,Wish You Were Here,Pink Floyd,1975,Schnall,,,2.0,,,-1.0,,-1.0,,,,,0,3,progressive rock; psychedelic rock; classic rock; symphonic rock; art rock; rock,progressive rock,Title Track,Songs that are also the title of the album they were originally released on,Schnall_29_1
+1,29,American Idiot,American Idiot,Green Day,2004,Martin,,,3.0,,,2.0,,,,,,,5,2,punk; pop punk,punk,Title Track,Songs that are also the title of the album they were originally released on,Martin_29_1
+1,29,Night Moves,Night Moves,Bob Seger,1976,Zaslav,,,1.0,,,3.0,,2.0,,,,,6,3,classic rock,classic rock,Title Track,Songs that are also the title of the album they were originally released on,Zaslav_29_1
+1,29,Starboy,Starboy,The Weeknd; Daft Punk,2016,Gorelick,,,,,,1.0,,2.0,,,,,3,2,french house; electronic; electro,french house,Title Track,Songs that are also the title of the album they were originally released on,Gorelick_29_1
+1,30,She Had Me At Heads Carolina,Stereotype,Cole Swindell,2022,Maizes,,,,,,2.0,,1.0,,,,,3,2,country; acoustic country,country,Wheels,Songs that mention cars,Maizes_30_1
+1,30,Headlights,The Marshall Mathers LP2 (Deluxe),Eminem; Nate Ruess,2013,Martin,,,,,,1.0,1.0,,,1.0,3.0,,6,4,rap; hip hop,rap,Wheels,Songs that mention cars,Martin_30_1
+1,30,Sunset Garage,Outta Their Minds,Sun Room,2023,Schnall,,,,,,2.0,1.0,3.0,,-1.0,,,5,4,surf rock,surf rock,Wheels,Songs that mention cars,Schnall_30_1
+1,30,Fast Car,Tracy Chapman,Tracy Chapman,1988,Reyes,,,,,,1.0,3.0,1.0,,,1.0,,6,4,,,Wheels,Songs that mention cars,Reyes_30_1
+1,30,'68 Fastback,American Heartbreak,Zach Bryan,2022,Leon,,,,,,,1.0,1.0,,1.0,1.0,,4,4,country; red dirt,country,Wheels,Songs that mention cars,Leon_30_1
+1,30,Life is a Highway,Cars (Original Motion Picture Soundtrack),Rascal Flatts,2006,Abrutyn,,,,,,-1.0,-1.0,,,3.0,-1.0,,0,4,country,country,Wheels,Songs that mention cars,Abrutyn_30_1
+1,30,Eastside (with Halsey & Khalid),FRIENDS KEEP SECRETS,benny blanco; Halsey; Khalid,2018,Gorelick,,,,,,,,-1.0,,1.0,1.0,,1,3,,,Wheels,Songs that mention cars,Gorelick_30_1
+1,31,Marvins Room,Take Care (Deluxe),Drake,2011,Gorelick,2.0,,,,,1.0,-1.0,-1.0,,-1.0,-1.0,1.0,0,7,rap; hip hop,rap,Break-up,Songs to get you through heartbreak,Gorelick_31_1
+1,31,Save Me,Magnolia (Music from the Motion Picture),Aimee Mann,1999,Reyes,1.0,,1.0,,,1.0,,,,,,2.0,5,4,,,Break-up,Songs to get you through heartbreak,Reyes_31_1
+1,31,When I Was Your Man,Unorthodox Jukebox,Bruno Mars,2012,Abrutyn,,,,,,,,2.0,,2.0,1.0,1.0,6,4,,,Break-up,Songs to get you through heartbreak,Abrutyn_31_1
+1,31,XO,i think you think too much of me,EDEN,2016,Schnall,-1.0,,2.0,,,-1.0,2.0,1.0,,,,,3,5,,,Break-up,Songs to get you through heartbreak,Schnall_31_1
+1,31,mine,chemistry,Kelly Clarkson,2023,Martin,1.0,,1.0,,,,2.0,,,1.0,3.0,2.0,10,6,christmas,christmas,Break-up,Songs to get you through heartbreak,Martin_31_1
+1,31,"SIGNED, SOBER YOU",WHERE TO FIND ME,HARDY,2019,Leon,,,,,,,1.0,1.0,,,,-1.0,1,3,country; country rock,country,Break-up,Songs to get you through heartbreak,Leon_31_1
+1,31,Iris - Live,"Live in Buffalo July 4th, 2004",The Goo Goo Dolls,2004,Maizes,2.0,,-1.0,,,1.0,,,,2.0,2.0,,6,5,,,Break-up,Songs to get you through heartbreak,Maizes_31_1
+1,31,Jealous,Jealous - EP,Labrinth,2014,Zaslav,,,2.0,,,3.0,1.0,2.0,,1.0,,,9,5,,,Break-up,Songs to get you through heartbreak,Zaslav_31_1
+1,32,Danny's Song,The Best: Loggins & Messina Sittin' In Again,Loggins & Messina,1971,Leon,1.0,,1.0,,,,2.0,3.0,2.0,,,,9,5,,,Spare Some Change?,Songs that mention needing money or being broke,Leon_32_1
+1,32,$ave Dat Money (feat. Fetty Wap & Rich Homie Quan),Professional Rapper,Lil Dicky; Fetty Wap; Rich Homie Quan,2015,Ojalvo,2.0,,-1.0,,,1.0,-1.0,-1.0,,,,,0,5,southern hip hop,southern hip hop,Spare Some Change?,Songs that mention needing money or being broke,Ojalvo_32_1
+1,32,I Need A Dollar,Good Things,Aloe Blacc,2010,Abrutyn,,,2.0,,,2.0,2.0,1.0,2.0,,,,9,5,,,Spare Some Change?,Songs that mention needing money or being broke,Abrutyn_32_1
+1,32,Broke (feat. Stevie Wonder and Keith Urban),Everything Is 4,Jason Derulo; Stevie Wonder; Keith Urban,2015,Martin,1.0,,,,,-1.0,1.0,,-1.0,,,,0,4,motown; soul; country,motown,Spare Some Change?,Songs that mention needing money or being broke,Martin_32_1
+1,32,MONEY & FAME,H A R D L O V E,NEEDTOBREATHE,2016,Maizes,-1.0,,3.0,,,2.0,,1.0,,,,,5,4,christian; christian folk; christian alternative rock; ccm; christian rock; worship,christian,Spare Some Change?,Songs that mention needing money or being broke,Maizes_32_1
+1,32,How Much A Dollar Cost,To Pimp A Butterfly,Kendrick Lamar; James Fauntleroy; Ronald Isley,2015,Gorelick,2.0,,,,,1.0,1.0,1.0,2.0,,,,7,5,hip hop; west coast hip hop; quiet storm,hip hop,Spare Some Change?,Songs that mention needing money or being broke,Gorelick_32_1
+1,33,Summer Of '69,Reckless (30th Anniversary / Deluxe Edition),Bryan Adams,1984,Martin,2.0,,3.0,,,2.0,2.0,,,2.0,2.0,,13,6,,,Summer,Songs that make you think of summer,Martin_33_1
+1,33,Sunburns,Sunburns,West 22nd,2023,Schnall,1.0,,1.0,,,1.0,,2.0,,,,,5,4,,,Summer,Songs that make you think of summer,Schnall_33_1
+1,33,Guatemala - From Swaecation,SR3MM,Rae Sremmurd; Swae Lee; Slim Jxmmi,2018,Ojalvo,1.0,,,,,-1.0,-1.0,,,1.0,,,0,4,,,Summer,Songs that make you think of summer,Ojalvo_33_1
+1,33,Stacy's Mom,Welcome Interstate Managers,Fountains Of Wayne,2003,Abrutyn,,,-1.0,,,1.0,2.0,1.0,,2.0,,,5,5,power pop,power pop,Summer,Songs that make you think of summer,Abrutyn_33_1
+1,33,Love$ick (feat. A$AP Rocky),Mura Masa,Mura Masa; A$AP Rocky,2017,Reyes,,,,,,,,-1.0,,,,,-1,1,rap,rap,Summer,Songs that make you think of summer,Reyes_33_1
+1,33,Wagon Wheel,True Believers,Darius Rucker,2013,Maizes,,,1.0,,,2.0,,2.0,,,1.0,,6,4,country,country,Summer,Songs that make you think of summer,Maizes_33_1
+1,33,Toes,The Foundation,Zac Brown Band,2008,Leon,-1.0,,1.0,,,,2.0,1.0,,1.0,3.0,,7,6,country; acoustic country,country,Summer,Songs that make you think of summer,Leon_33_1
+1,33,Summer,Motion,Calvin Harris,2014,Gorelick,2.0,,,,,,,,,-1.0,-1.0,,0,3,edm,edm,Summer,Songs that make you think of summer,Gorelick_33_1
+1,34,Groupie Love (feat. A$AP Rocky),Lust For Life,Lana Del Rey; A$AP Rocky,2017,Leon,-1.0,,,,,,-1.0,-1.0,,3.0,,-1.0,-1,5,rap,rap,A Higher Plane,Songs for 420,Leon_34_1
+1,34,Crazy Rap (Colt 45 & 2 Zig Zags),The Good Times,Afroman,2001,Abrutyn,,,,,,2.0,2.0,1.0,,2.0,,2.0,9,5,,,A Higher Plane,Songs for 420,Abrutyn_34_1
+1,34,Pass The Dutchie,Anthology,Musical Youth,1994,Zaslav,2.0,,,,,-1.0,1.0,1.0,,-1.0,,,2,5,reggae,reggae,A Higher Plane,Songs for 420,Zaslav_34_1
+1,34,Santeria,Sublime,Sublime,1996,Reyes,2.0,,,,,1.0,,2.0,,,,1.0,6,4,reggae rock; ska punk; ska,reggae rock,A Higher Plane,Songs for 420,Reyes_34_1
+1,34,Young Dumb & Broke,American Teen,Khalid,2017,Martin,1.0,,,,,2.0,3.0,,,1.0,,2.0,9,5,,,A Higher Plane,Songs for 420,Martin_34_1
+1,34,Summer Time High Time,Chiquito,Cuco; Kwe$t,2018,Maizes,1.0,,,,,1.0,,2.0,,,,1.0,5,4,bedroom pop,bedroom pop,A Higher Plane,Songs for 420,Maizes_34_1
+1,35,Falling Stars,Falling Stars,Sammy Slayer,2024,Leon,-1.0,,,,,,3.0,1.0,,,,,3,3,,,House Party,Songs to play at your next house party,Leon_35_1
+1,35,This Is What It Feels Like,Intense,Armin van Buuren; Trevor Guthrie,2013,Maizes,2.0,,,,,-1.0,,3.0,,,,,4,3,trance; progressive house; electronica; edm,trance,House Party,Songs to play at your next house party,Maizes_35_1
+1,35,Heart Upon My Sleeve (feat. Imagine Dragons),TIM,Avicii; Imagine Dragons,2019,Martin,2.0,,,,,1.0,3.0,,,,,,6,3,edm,edm,House Party,Songs to play at your next house party,Martin_35_1
+1,35,The Weekend - Radio Edit,Analog Is On,Michael Gray,2007,Abrutyn,,,,,,2.0,-1.0,2.0,,,,,3,3,disco house,disco house,House Party,Songs to play at your next house party,Abrutyn_35_1
+1,35,No Idea,Heaven Or Hell,Don Toliver,2020,Reyes,2.0,,,,,3.0,,-1.0,,,,,4,3,,,House Party,Songs to play at your next house party,Reyes_35_1
+1,36,The Middle,The Middle,Zedd; Maren Morris; Grey,2018,Gorelick,,,,,,,-1.0,2.0,,,,,1,2,edm; country,edm,Study Time,Songs that are great to study to,Gorelick_36_1
+1,36,The Last Goodbye,The Last Goodbye,Aquilegia,2024,Leon,,,,,,,1.0,,,1.0,,,2,2,,,Study Time,Songs that are great to study to,Leon_36_1
+1,36,Under Pressure - Remastered 2011,Hot Space (Deluxe Remastered Version),Queen; David Bowie,1982,Martin,,,,,,,2.0,,,-1.0,,,1,2,classic rock; rock; glam rock; art rock,classic rock,Study Time,Songs that are great to study to,Martin_36_1
+1,36,Texas Sun,Texas Sun,Khruangbin; Leon Bridges,2020,Zaslav,,,,,,,,1.0,,3.0,,,4,2,retro soul,retro soul,Study Time,Songs that are great to study to,Zaslav_36_1
+1,36,The Final View,Metaphorical Music,Nujabes,2003,Abrutyn,,,,,,,1.0,-1.0,,2.0,,,2,3,jazz rap,jazz rap,Study Time,Songs that are great to study to,Abrutyn_36_1
+1,36,Sweden,Minecraft - Volume Alpha,C418,2011,Reyes,,,,,,,2.0,1.0,,,,,3,2,,,Study Time,Songs that are great to study to,Reyes_36_1
+1,36,Return,Raya and the Last Dragon (Original Motion Picture Soundtrack),James Newton Howard,2021,Maizes,,,,,,,,2.0,,,,,2,1,soundtrack,soundtrack,Study Time,Songs that are great to study to,Maizes_36_1
+2,1,No Pole,Love Sick (Deluxe),Don Toliver,2023,Abrutyn,,,-1.0,-1.0,1.0,,,-1.0,1.0,,-1.0,,-2,6,,,Can Openers,Songs that were the first track on an album,Abrutyn_1_2
+2,1,Second Hand News - 2004 Remaster,Rumours,Fleetwood Mac,1977,Ojalvo,,,,1.0,,1.0,,,,1.0,1.0,,4,4,classic rock; soft rock,classic rock,Can Openers,Songs that were the first track on an album,Ojalvo_1_2
+2,1,Politik,A Rush of Blood to the Head,Coldplay,2002,Schnall,2.0,,,1.0,2.0,1.0,1.0,,,1.0,,,8,6,,,Can Openers,Songs that were the first track on an album,Schnall_1_2
+2,1,Band On The Run - 2010 Remaster,Band On The Run,Paul McCartney; Wings,1973,Leon,1.0,,,1.0,,,,,1.0,,1.0,,4,4,,,Can Openers,Songs that were the first track on an album,Leon_1_2
+2,1,Time to Pretend,Oracular Spectacular,MGMT,2007,Reyes,3.0,,2.0,,1.0,-1.0,2.0,2.0,1.0,,1.0,,11,8,indie,indie,Can Openers,Songs that were the first track on an album,Reyes_1_2
+2,1,Waiting On the World to Change,Continuum,John Mayer,2006,Gorelick,,,,,,2.0,,1.0,1.0,,,,4,3,singer-songwriter,singer-songwriter,Can Openers,Songs that were the first track on an album,Gorelick_1_2
+2,1,Jenny Was A Friend Of Mine,Hot Fuss,The Killers,2004,Maizes,,,,1.0,2.0,2.0,,1.0,,1.0,2.0,,9,6,alternative rock,alternative rock,Can Openers,Songs that were the first track on an album,Maizes_1_2
+2,1,Down,All Or Nothing,Jay Sean; Lil Wayne,2009,Zaslav,-1.0,,1.0,,,,-1.0,,,,,,-1,3,rap; hip hop,rap,Can Openers,Songs that were the first track on an album,Zaslav_1_2
+2,1,Gimme Shelter,Let It Bleed,The Rolling Stones,1969,Hochhauser,,,2.0,1.0,,,,1.0,1.0,2.0,,,7,5,classic rock; rock,classic rock,Can Openers,Songs that were the first track on an album,Hochhauser_1_2
+2,1,American Idiot,American Idiot,Green Day,2004,Martin,,,,1.0,,,2.0,,1.0,1.0,1.0,,6,5,punk; pop punk,punk,Can Openers,Songs that were the first track on an album,Martin_1_2
+2,1,Westward Ho! Massive Letdown,Urge for Offal,Half Man Half Biscuit,2014,Gruber,,,1.0,,-1.0,,1.0,1.0,-1.0,-1.0,,,0,6,jangle pop; post-punk,jangle pop,Can Openers,Songs that were the first track on an album,Gruber_1_2
+2,2,Waving Through A Window,Dear Evan Hansen (Original Broadway Cast Recording),Ben Platt; Original Broadway Cast of Dear Evan Hansen,2017,Leon,-1.0,,,1.0,1.0,,,1.0,1.0,,1.0,,4,6,musicals,musicals,Guilty Pleasures,"Songs you genuinely love, but you're a little embarassed to like",Leon_2_2
+2,2,Beaches,This Is How Tomorrow Moves,beabadoobee,2024,Reyes,2.0,,1.0,1.0,1.0,,,1.0,1.0,,,1.0,8,7,bedroom pop,bedroom pop,Guilty Pleasures,"Songs you genuinely love, but you're a little embarassed to like",Reyes_2_2
+2,2,Famous,Famous EP,Mason Ramsey,2018,Ojalvo,,,,,2.0,,,1.0,,-1.0,1.0,,3,4,country,country,Guilty Pleasures,"Songs you genuinely love, but you're a little embarassed to like",Ojalvo_2_2
+2,2,Waterloo,Waterloo,ABBA,1974,Gruber,,,2.0,,,1.0,2.0,1.0,1.0,1.0,,1.0,9,7,,,Guilty Pleasures,"Songs you genuinely love, but you're a little embarassed to like",Gruber_2_2
+2,2,Boy's a Liar,Boy's a liar,PinkPantheress,2022,Zaslav,3.0,,1.0,-1.0,-1.0,-1.0,-1.0,,-1.0,2.0,-1.0,,0,9,bedroom pop,bedroom pop,Guilty Pleasures,"Songs you genuinely love, but you're a little embarassed to like",Zaslav_2_2
+2,2,ETA,NewJeans 2nd EP 'Get Up',NewJeans,2023,Abrutyn,,,-1.0,1.0,,,1.0,-1.0,,1.0,,2.0,3,6,k-pop,k-pop,Guilty Pleasures,"Songs you genuinely love, but you're a little embarassed to like",Abrutyn_2_2
+2,2,Penthouse,Rolling Up the Welcome Mat,Kelsea Ballerini,2023,Martin,,,,1.0,,2.0,,,1.0,,1.0,-1.0,4,5,country; pop country,country,Guilty Pleasures,"Songs you genuinely love, but you're a little embarassed to like",Martin_2_2
+2,2,Shake It Off,1989,Taylor Swift,2014,Gorelick,1.0,,,,,,,,,,1.0,,2,2,,,Guilty Pleasures,"Songs you genuinely love, but you're a little embarassed to like",Gorelick_2_2
+2,2,Defying Gravity - Edit,Wicked: The Soundtrack,Cynthia Erivo; Ariana Grande,2024,Maizes,,,,1.0,,1.0,,1.0,1.0,,2.0,,6,5,musicals; pop,musicals,Guilty Pleasures,"Songs you genuinely love, but you're a little embarassed to like",Maizes_2_2
+2,2,Red Wine Supernova,The Rise and Fall of a Midwest Princess,Chappell Roan,2023,Schnall,,,1.0,1.0,2.0,2.0,1.0,,,,,1.0,8,6,,,Guilty Pleasures,"Songs you genuinely love, but you're a little embarassed to like",Schnall_2_2
+2,2,That’s So True,The Secret of Us (Deluxe),Gracie Abrams,2024,Hochhauser,,,1.0,,,,2.0,1.0,1.0,2.0,,1.0,8,6,,,Guilty Pleasures,"Songs you genuinely love, but you're a little embarassed to like",Hochhauser_2_2
+2,3,Cheerleader - Felix Jaehn Remix Radio Edit,Me 4 U,OMI,2015,Abrutyn,,,,,-1.0,1.0,,2.0,-1.0,1.0,,1.0,3,6,,,One Hit Wonders,Well-known songs by bands or artists who never had another hit,Abrutyn_3_2
+2,3,Funkytown,Casablanca Records Greatest Hits,Lipps Inc.,1996,Zaslav,1.0,,1.0,,,,1.0,,,,,,3,3,disco,disco,One Hit Wonders,Well-known songs by bands or artists who never had another hit,Zaslav_3_2
+2,3,Stacy's Mom,Welcome Interstate Managers,Fountains Of Wayne,2003,Reyes,2.0,,-1.0,2.0,,1.0,2.0,,,,1.0,1.0,8,7,power pop,power pop,One Hit Wonders,Well-known songs by bands or artists who never had another hit,Reyes_3_2
+2,3,Brandy (You're a Fine Girl),Looking Glass,Looking Glass,1972,Gruber,,,,,1.0,,,-1.0,3.0,1.0,2.0,1.0,7,6,,,One Hit Wonders,Well-known songs by bands or artists who never had another hit,Gruber_3_2
+2,3,Tonight Tonight,Whatever,Hot Chelle Rae,2011,Hochhauser,,,,,,-1.0,2.0,,,2.0,-1.0,-1.0,1,5,,,One Hit Wonders,Well-known songs by bands or artists who never had another hit,Hochhauser_3_2
+2,3,Too Close,The Lateness Of The Hour,Alex Clare,2011,Schnall,,,1.0,2.0,2.0,1.0,,,,1.0,,2.0,9,6,,,One Hit Wonders,Well-known songs by bands or artists who never had another hit,Schnall_3_2
+2,3,Somebody That I Used To Know,Making Mirrors,Gotye; Kimbra,2011,Martin,-1.0,,1.0,,,1.0,-1.0,,,,1.0,,1,5,,,One Hit Wonders,Well-known songs by bands or artists who never had another hit,Martin_3_2
+2,3,Play That Funky Music,Wild Cherry,Wild Cherry,1976,Leon,1.0,,1.0,2.0,1.0,,1.0,1.0,1.0,,,1.0,9,8,,,One Hit Wonders,Well-known songs by bands or artists who never had another hit,Leon_3_2
+2,3,Come On Eileen - Single Edit,Come On Eileen / Dubious,Dexys Midnight Runners; Kevin Rowland,2009,Maizes,,,1.0,,1.0,,,2.0,1.0,1.0,2.0,,8,6,,,One Hit Wonders,Well-known songs by bands or artists who never had another hit,Maizes_3_2
+2,3,Crazy,St. Elsewhere,Gnarls Barkley,2006,Ojalvo,1.0,,1.0,-1.0,1.0,,,,,-1.0,,,1,5,,,One Hit Wonders,Well-known songs by bands or artists who never had another hit,Ojalvo_3_2
+2,3,Rude,Don't Kill the Magic,MAGIC!,2014,Gorelick,1.0,,,,,2.0,,1.0,1.0,,,,5,4,,,One Hit Wonders,Well-known songs by bands or artists who never had another hit,Gorelick_3_2
+2,4,This Is America,This Is America,Childish Gambino,2018,Gorelick,1.0,,,,,-1.0,-1.0,-1.0,1.0,1.0,,-1.0,-1,7,,,Location,Songs that references a place in the title,Gorelick_4_2
+2,4,Charleston Girl,All The Way Home,West 22nd,2023,Schnall,-1.0,,1.0,,1.0,1.0,1.0,,-1.0,,,,2,6,,,Location,Songs that references a place in the title,Schnall_4_2
+2,4,Made In America,Watch The Throne,JAY-Z; Kanye West; Frank Ocean,2011,Ojalvo,1.0,,,-1.0,-1.0,,,,,2.0,1.0,1.0,3,6,hip hop; east coast hip hop; rap,hip hop,Location,Songs that references a place in the title,Ojalvo_4_2
+2,4,N.Y. State of Mind,Illmatic,Nas,1994,Abrutyn,,,2.0,3.0,1.0,,,1.0,,1.0,-1.0,,7,6,east coast hip hop; hip hop,east coast hip hop,Location,Songs that references a place in the title,Abrutyn_4_2
+2,4,Tishomingo,American Heartbreak,Zach Bryan,2022,Hochhauser,1.0,,,,,2.0,1.0,,1.0,1.0,,,6,5,country; red dirt,country,Location,Songs that references a place in the title,Hochhauser_4_2
+2,4,Atlantic City,Nebraska,Bruce Springsteen,1982,Reyes,1.0,,1.0,,1.0,2.0,,1.0,,,,,6,5,,,Location,Songs that references a place in the title,Reyes_4_2
+2,4,San Diego,California (Deluxe Edition),blink-182,2016,Maizes,,,,,1.0,,,2.0,1.0,,,1.0,5,4,pop punk; punk; emo pop; rock; skate punk; emo,pop punk,Location,Songs that references a place in the title,Maizes_4_2
+2,4,Somewhere in Brooklyn,Doo-Wops & Hooligans,Bruno Mars,2010,Martin,,,-1.0,,,,2.0,,1.0,1.0,1.0,2.0,6,6,,,Location,Songs that references a place in the title,Martin_4_2
+2,4,Hotel California - 2013 Remaster,Hotel California (2013 Remaster),Eagles,1976,Gruber,1.0,,1.0,,,1.0,,,,-1.0,2.0,1.0,5,6,classic rock; soft rock,classic rock,Location,Songs that references a place in the title,Gruber_4_2
+2,4,Vienna,The Stranger (Legacy Edition),Billy Joel,1977,Leon,1.0,,,3.0,2.0,,2.0,2.0,2.0,,2.0,1.0,15,8,soft rock,soft rock,Location,Songs that references a place in the title,Leon_4_2
+2,4,No Sleep Till Brooklyn,Licensed To Ill,Beastie Boys,1986,Zaslav,,,1.0,,,,,,,,,,1,1,rap rock; east coast hip hop; hip hop,rap rock,Location,Songs that references a place in the title,Zaslav_4_2
+2,5,Follow The Money (feat. James Taylor),The Blues Don't Lie,Buddy Guy; James Taylor,2022,Gruber,-1.0,,,,,-1.0,-1.0,,,,,,-3,3,blues; classic blues; blues rock; soul blues; modern blues; country blues; folk rock; singer-songwriter; soft rock,blues,Sing For The Moment,Songs with a singing feature,Gruber_5_2
+2,5,Chinatown (feat. Bruce Springsteen),Take the Sadness Out of Saturday Night,Bleachers; Bruce Springsteen,2021,Maizes,,,,-1.0,1.0,,,,-1.0,,,,-1,3,,,Sing For The Moment,Songs with a singing feature,Maizes_5_2
+2,5,TELEKINESIS (feat. SZA & Future),UTOPIA,Travis Scott; SZA; Future,2023,Abrutyn,,,2.0,,1.0,1.0,,-1.0,1.0,-1.0,-1.0,-1.0,1,8,rap; r&b,rap,Sing For The Moment,Songs with a singing feature,Abrutyn_5_2
+2,5,No Air (feat. Chris Brown),Jordin Sparks,Jordin Sparks; Chris Brown,2007,Schnall,1.0,,2.0,,,,,1.0,1.0,1.0,,1.0,7,6,r&b,r&b,Sing For The Moment,Songs with a singing feature,Schnall_5_2
+2,5,Just Give Me a Reason (feat. Nate Ruess),The Truth About Love,P!nk; Nate Ruess,2012,Leon,1.0,,1.0,,,,2.0,2.0,,1.0,1.0,1.0,9,7,,,Sing For The Moment,Songs with a singing feature,Leon_5_2
+2,5,Headlights,The Marshall Mathers LP2 (Deluxe),Eminem; Nate Ruess,2013,Martin,1.0,,,,,1.0,,,1.0,,3.0,1.0,7,5,rap; hip hop,rap,Sing For The Moment,Songs with a singing feature,Martin_5_2
+2,5,"Everyday (feat. Rod Stewart, Miguel & Mark Ronson)",AT.LONG.LAST.A$AP,A$AP Rocky; Rod Stewart; Miguel; Mark Ronson,2015,Reyes,,,,1.0,2.0,1.0,,1.0,1.0,,,,6,5,rap; soft rock; r&b,rap,Sing For The Moment,Songs with a singing feature,Reyes_5_2
+2,5,Good Old Days (feat. Kesha),GEMINI,Macklemore; Kesha,2017,Gorelick,1.0,,,1.0,-1.0,1.0,2.0,1.0,1.0,,1.0,2.0,9,9,,,Sing For The Moment,Songs with a singing feature,Gorelick_5_2
+2,5,Mirror,Tha Carter IV (Complete Edition),Lil Wayne; Bruno Mars,2011,Hochhauser,,,-1.0,3.0,,,1.0,,1.0,1.0,1.0,1.0,7,7,rap; hip hop,rap,Sing For The Moment,Songs with a singing feature,Hochhauser_5_2
+2,5,My Favorite Part,The Divine Feminine,Mac Miller; Ariana Grande,2016,Zaslav,,,,,1.0,1.0,,,,2.0,,,4,3,pop,pop,Sing For The Moment,Songs with a singing feature,Zaslav_5_2
+2,5,LOVE. FEAT. ZACARI.,DAMN.,Kendrick Lamar; Zacari,2017,Ojalvo,2.0,,1.0,1.0,1.0,1.0,1.0,1.0,,1.0,,,9,8,hip hop; west coast hip hop,hip hop,Sing For The Moment,Songs with a singing feature,Ojalvo_5_2
+2,6,No Problem (feat. Lil Wayne & 2 Chainz),Coloring Book,Chance the Rapper; Lil Wayne; 2 Chainz,2016,Leon,1.0,,1.0,,1.0,,,,1.0,1.0,1.0,2.0,8,7,rap; hip hop; southern hip hop,rap,That’s A Rap,Songs with a rap feature.,Leon_6_2
+2,6,Michael Jordan,Overly Dedicated,Kendrick Lamar; ScHoolboy Q,2010,Gruber,-1.0,,-1.0,,,,-1.0,1.0,,1.0,-1.0,-1.0,-3,7,hip hop; west coast hip hop,hip hop,That’s A Rap,Songs with a rap feature.,Gruber_6_2
+2,6,m.A.A.d city,"good kid, m.A.A.d city (Deluxe)",Kendrick Lamar; MC Eiht,2012,Gorelick,,,,3.0,1.0,1.0,,1.0,2.0,2.0,,,10,6,hip hop; west coast hip hop; g-funk; gangster rap,hip hop,That’s A Rap,Songs with a rap feature.,Gorelick_6_2
+2,6,"A$AP Forever REMIX (feat. Moby, T.I. & Kid Cudi)",TESTING,A$AP Rocky; Moby; T.I.; Kid Cudi,2018,Reyes,1.0,,1.0,,1.0,,,-1.0,1.0,,,,3,5,rap; downtempo; trip hop; southern hip hop,rap,That’s A Rap,Songs with a rap feature.,Reyes_6_2
+2,6,That's Life (feat. Mac Miller & Sia),That's Life (feat. Mac Miller & Sia),88-Keys; Mac Miller; Sia,2019,Hochhauser,2.0,,1.0,,,1.0,2.0,,1.0,,,,7,5,alternative hip hop,alternative hip hop,That’s A Rap,Songs with a rap feature.,Hochhauser_6_2
+2,6,I Like It Like That (feat. New Boyz),Whatever,Hot Chelle Rae; New Boyz,2011,Schnall,1.0,,1.0,-1.0,-1.0,,1.0,2.0,-1.0,,,,2,7,,,That’s A Rap,Songs with a rap feature.,Schnall_6_2
+2,6,Forever,More Than A Game,Drake; Kanye West; Lil Wayne; Eminem,2009,Abrutyn,,,,,,1.0,1.0,,1.0,,2.0,2.0,7,5,rap; hip hop,rap,That’s A Rap,Songs with a rap feature.,Abrutyn_6_2
+2,6,All My Friends (feat. Tinashe & Chance the Rapper),All My Friends (feat. Tinashe & Chance the Rapper),Snakehips; Tinashe; Chance the Rapper,2015,Ojalvo,,,1.0,,,2.0,,1.0,,,1.0,1.0,6,5,alternative r&b,alternative r&b,That’s A Rap,Songs with a rap feature.,Ojalvo_6_2
+2,6,Girls Like You (feat. Cardi B) - Cardi B Version,Red Pill Blues (Deluxe),Maroon 5; Cardi B,2018,Maizes,,,1.0,,,-1.0,,1.0,,-1.0,,,0,4,pop,pop,That’s A Rap,Songs with a rap feature.,Maizes_6_2
+2,6,I Need A Doctor,I Need A Doctor,Dr. Dre; Eminem; Skylar Grey,2011,Martin,1.0,,,3.0,,,2.0,,,,2.0,1.0,9,5,g-funk; gangster rap; west coast hip hop; hip hop; rap,g-funk,That’s A Rap,Songs with a rap feature.,Martin_6_2
+2,6,Tints (feat. Kendrick Lamar),Oxnard,Anderson .Paak; Kendrick Lamar,2018,Zaslav,,,,,3.0,1.0,,,,2.0,,,6,3,hip hop; west coast hip hop,hip hop,That’s A Rap,Songs with a rap feature.,Zaslav_6_2
+2,7,La Novelita,Generation Next,Aventura,1999,Reyes,1.0,,,,,,1.0,,-1.0,,,1.0,2,4,bachata; bachata pop,bachata,"Thanks, Mom and Dad",Songs that your parents listened to when you were a kid that you now love,Reyes_7_2
+2,7,Money,The Dark Side of the Moon,Pink Floyd,1973,Abrutyn,,,1.0,3.0,1.0,,-1.0,,,,1.0,1.0,6,6,progressive rock; psychedelic rock; classic rock; symphonic rock; art rock; rock,progressive rock,"Thanks, Mom and Dad",Songs that your parents listened to when you were a kid that you now love,Abrutyn_7_2
+2,7,Burning Down the House,Burning Down the House / I Get Wild / Wild Gravity,Talking Heads,1983,Gruber,1.0,,-1.0,,,-1.0,,,,1.0,,,0,4,new wave; post-punk,new wave,"Thanks, Mom and Dad",Songs that your parents listened to when you were a kid that you now love,Gruber_7_2
+2,7,"If You Want To Sing Out, Sing Out",Tea For The Tillerman (Super Deluxe),Yusuf / Cat Stevens,2020,Schnall,1.0,,,,1.0,2.0,,2.0,1.0,,,-1.0,6,6,folk rock; folk; singer-songwriter,folk rock,"Thanks, Mom and Dad",Songs that your parents listened to when you were a kid that you now love,Schnall_7_2
+2,7,Mary Jane's Last Dance,Greatest Hits,Tom Petty and the Heartbreakers,2008,Hochhauser,1.0,,1.0,3.0,,2.0,1.0,1.0,1.0,1.0,1.0,1.0,13,10,classic rock,classic rock,"Thanks, Mom and Dad",Songs that your parents listened to when you were a kid that you now love,Hochhauser_7_2
+2,7,Dirty Work,Can't Buy A Thrill,Steely Dan,1972,Ojalvo,1.0,,1.0,,1.0,,1.0,,,3.0,1.0,1.0,9,7,classic rock,classic rock,"Thanks, Mom and Dad",Songs that your parents listened to when you were a kid that you now love,Ojalvo_7_2
+2,7,What Is Life (2020 Mix),All Things Must Pass (50th Anniversary;Super Deluxe),George Harrison,1970,Martin,1.0,,,,1.0,1.0,2.0,,1.0,,2.0,1.0,9,7,,,"Thanks, Mom and Dad",Songs that your parents listened to when you were a kid that you now love,Martin_7_2
+2,7,Invisible Touch,Invisible Touch,Genesis,1986,Maizes,,,1.0,,-1.0,,,2.0,,,-1.0,,1,4,progressive rock; symphonic rock; art rock,progressive rock,"Thanks, Mom and Dad",Songs that your parents listened to when you were a kid that you now love,Maizes_7_2
+2,7,One of These Nights - 2013 Remaster,One of These Nights (2013 Remaster),Eagles,1975,Zaslav,,,1.0,,,1.0,,-1.0,1.0,-1.0,,,1,5,classic rock; soft rock,classic rock,"Thanks, Mom and Dad",Songs that your parents listened to when you were a kid that you now love,Zaslav_7_2
+2,7,Just Breathe,Backspacer,Pearl Jam,2009,Leon,-1.0,,1.0,,1.0,,,1.0,1.0,1.0,1.0,,5,7,grunge; rock; post-grunge,grunge,"Thanks, Mom and Dad",Songs that your parents listened to when you were a kid that you now love,Leon_7_2
+2,7,Dancing In the Dark,Born In The U.S.A.,Bruce Springsteen,1984,Gorelick,,,,-1.0,1.0,,1.0,,1.0,,,1.0,3,5,,,"Thanks, Mom and Dad",Songs that your parents listened to when you were a kid that you now love,Gorelick_7_2
+2,8,The Nights,The Days / Nights,Avicii,2014,Gorelick,,,,-1.0,,,1.0,1.0,,1.0,,,2,4,edm,edm,In Memoriam,Songs by artists who are no longer with us,Gorelick_8_2
+2,8,Lady Brown (feat. Cise Starr from CYNE),Metaphorical Music,Nujabes; Cise Starr,2003,Abrutyn,,,1.0,,2.0,1.0,,,,2.0,,,6,4,jazz rap,jazz rap,In Memoriam,Songs by artists who are no longer with us,Abrutyn_8_2
+2,8,Starman - 2012 Remaster,The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster),David Bowie,1972,Martin,1.0,,1.0,1.0,1.0,1.0,,,,,,,5,5,glam rock; art rock,glam rock,In Memoriam,Songs by artists who are no longer with us,Martin_8_2
+2,8,Under Pressure - Remastered 2011,Hot Space (Deluxe Remastered Version),Queen; David Bowie,1982,Maizes,,,,1.0,1.0,,,1.0,,,,,3,3,classic rock; rock; glam rock; art rock,classic rock,In Memoriam,Songs by artists who are no longer with us,Maizes_8_2
+2,8,Back To Black,Back To Black,Amy Winehouse,2006,Zaslav,2.0,,1.0,,1.0,1.0,,1.0,,,,,6,5,,,In Memoriam,Songs by artists who are no longer with us,Zaslav_8_2
+2,8,These Days,Chelsea Girl,Nico,1967,Gruber,,,2.0,,,-1.0,2.0,-1.0,,2.0,,,4,5,proto-punk; art rock,proto-punk,In Memoriam,Songs by artists who are no longer with us,Gruber_8_2
+2,8,Waiting for the End,Waiting for the End,Linkin Park,2010,Schnall,,,1.0,,-1.0,2.0,2.0,1.0,,,,,5,5,nu metal; rap metal; rock; alternative metal,nu metal,In Memoriam,Songs by artists who are no longer with us,Schnall_8_2
+2,8,Juicy - 2005 Remaster,Ready to Die (The Remaster),The Notorious B.I.G.,1994,Hochhauser,1.0,,,1.0,,1.0,1.0,,,1.0,,,5,5,gangster rap; east coast hip hop; hip hop,gangster rap,In Memoriam,Songs by artists who are no longer with us,Hochhauser_8_2
+2,8,Smells Like Teen Spirit,Nevermind (Remastered),Nirvana,1991,Reyes,2.0,,,3.0,1.0,,,1.0,,,,,7,4,grunge; rock,grunge,In Memoriam,Songs by artists who are no longer with us,Reyes_8_2
+2,8,Billie Jean,Carry On,Chris Cornell,2007,Leon,-1.0,,-1.0,,,,-1.0,1.0,,-1.0,,,-3,5,acoustic rock; grunge,acoustic rock,In Memoriam,Songs by artists who are no longer with us,Leon_8_2
+2,9,Killing Me Softly With His Song,The Score (Expanded Edition),Fugees; Ms. Lauryn Hill,1996,Abrutyn,,,1.0,2.0,,,,-1.0,,-1.0,-1.0,,0,5,east coast hip hop; neo soul,east coast hip hop,Early Days,Songs from famous bands that were released before they were well-known,Abrutyn_9_2
+2,9,Name,A Boy Named Goo,The Goo Goo Dolls,1995,Leon,1.0,,1.0,,1.0,,,,1.0,2.0,,,6,5,,,Early Days,Songs from famous bands that were released before they were well-known,Leon_9_2
+2,9,Kids,Oracular Spectacular,MGMT,2007,Gorelick,1.0,,,,,-1.0,,,-1.0,1.0,,,0,4,indie,indie,Early Days,Songs from famous bands that were released before they were well-known,Gorelick_9_2
+2,9,Rhinoceros - Remastered 2011,Gish (Deluxe Edition),The Smashing Pumpkins,1991,Reyes,,,,,1.0,,,,1.0,,,,2,2,alternative rock; rock,alternative rock,Early Days,Songs from famous bands that were released before they were well-known,Reyes_9_2
+2,9,"Yes Sir, No Sir (2019 Remaster)",Arthur or the Decline and Fall of the British Empire (2019 Remaster),The Kinks,1969,Gruber,1.0,,,,-1.0,1.0,-1.0,,,,,,0,4,proto-punk; baroque pop,proto-punk,Early Days,Songs from famous bands that were released before they were well-known,Gruber_9_2
+2,9,Maine,Cape Elizabeth,Noah Kahan,2020,Schnall,1.0,,2.0,-1.0,1.0,3.0,2.0,1.0,1.0,1.0,,,11,9,,,Early Days,Songs from famous bands that were released before they were well-known,Schnall_9_2
+2,9,The Gambler,Aim and Ignite (Deluxe Version),fun.,2009,Martin,1.0,,,2.0,,,2.0,,2.0,,3.0,,10,5,,,Early Days,Songs from famous bands that were released before they were well-known,Martin_9_2
+2,9,Myself,The Fourth World,Kara's Flowers,1997,Hochhauser,,,-1.0,2.0,,1.0,2.0,3.0,1.0,,2.0,,10,7,power pop,power pop,Early Days,Songs from famous bands that were released before they were well-known,Hochhauser_9_2
+2,9,i want! i want! < i want! i want! >,The Liftaway,WALK THE MOON,2023,Maizes,1.0,,1.0,,,,,2.0,,,1.0,,5,4,,,Early Days,Songs from famous bands that were released before they were well-known,Maizes_9_2
+2,9,Creep,Pablo Honey,Radiohead,1993,Ojalvo,-1.0,,1.0,,3.0,1.0,,,,2.0,,,6,5,art rock; alternative rock,art rock,Early Days,Songs from famous bands that were released before they were well-known,Ojalvo_9_2
+2,10,Ms. Jackson,Stankonia,Outkast,2000,Abrutyn,,,1.0,,,,,,,2.0,,1.0,4,3,southern hip hop; hip hop,southern hip hop,Name Check,Songs with a persons name in the title,Abrutyn_10_2
+2,10,"So Long, Marianne",Songs Of Leonard Cohen,Leonard Cohen,1967,Gruber,,,,,1.0,1.0,,,1.0,-1.0,,,2,4,singer-songwriter,singer-songwriter,Name Check,Songs with a persons name in the title,Gruber_10_2
+2,10,Breakfast At Tiffany's,Home,Deep Blue Something,1995,Zaslav,,,,,2.0,-1.0,2.0,2.0,1.0,,,,6,5,,,Name Check,Songs with a persons name in the title,Zaslav_10_2
+2,10,Cleopatra,Cleopatra,The Lumineers,2016,Maizes,-1.0,,1.0,,,1.0,,,1.0,1.0,,,3,5,folk pop; indie folk,folk pop,Name Check,Songs with a persons name in the title,Maizes_10_2
+2,10,Melissa,Eat A Peach,Allman Brothers Band,1972,Hochhauser,,,,2.0,,1.0,-1.0,,,,,1.0,3,4,southern rock; classic rock; blues rock; country rock,southern rock,Name Check,Songs with a persons name in the title,Hochhauser_10_2
+2,10,Annie's Song,Back Home Again,John Denver,1974,Martin,1.0,,1.0,3.0,-1.0,,,,-1.0,,,1.0,4,6,folk,folk,Name Check,Songs with a persons name in the title,Martin_10_2
+2,10,Jackie and Wilson,Hozier (Expanded Edition),Hozier,2014,Leon,,,1.0,-1.0,,,,2.0,,,,,2,3,,,Name Check,Songs with a persons name in the title,Leon_10_2
+2,10,All for Leyna,Glass Houses,Billy Joel,1980,Ojalvo,1.0,,,,1.0,,2.0,1.0,,,,1.0,6,5,soft rock,soft rock,Name Check,Songs with a persons name in the title,Ojalvo_10_2
+2,10,Dear Marie,Paradise Valley,John Mayer,2013,Schnall,1.0,,2.0,,1.0,2.0,1.0,,1.0,1.0,,1.0,10,8,singer-songwriter,singer-songwriter,Name Check,Songs with a persons name in the title,Schnall_10_2
+2,10,Jeremy,Ten,Pearl Jam,1991,Reyes,1.0,,-1.0,1.0,1.0,,,-1.0,1.0,,,1.0,3,7,grunge; rock; post-grunge,grunge,Name Check,Songs with a persons name in the title,Reyes_10_2
+2,10,Iris,Dizzy up the Girl,The Goo Goo Dolls,1998,Gorelick,2.0,,,,,1.0,1.0,1.0,1.0,2.0,,-1.0,7,7,,,Name Check,Songs with a persons name in the title,Gorelick_10_2
+2,11,Turbulence - Radio Edit,Turbulence (Radio Edit),Steve Aoki; Laidback Luke; Lil Jon,2011,Zaslav,1.0,,1.0,2.0,,1.0,-1.0,2.0,,1.0,,,7,7,electro house; edm; big room; crunk,electro house,Before The Scientist,Songs you’d play at a Greylock social.,Zaslav_11_2
+2,11,Feel This Moment (feat. Christina Aguilera),Global Warming: Meltdown (Deluxe Version),Pitbull; Christina Aguilera,2012,Schnall,1.0,,,3.0,1.0,,1.0,1.0,1.0,1.0,,1.0,10,8,,,Before The Scientist,Songs you’d play at a Greylock social.,Schnall_11_2
+2,11,Party Rock Anthem,Sorry For Party Rocking,LMFAO; Lauren Bennett; GoonRock,2011,Gruber,,,1.0,,,,1.0,,1.0,,,1.0,4,4,,,Before The Scientist,Songs you’d play at a Greylock social.,Gruber_11_2
+2,11,Dynamite,Rokstarr,Taio Cruz,2010,Martin,2.0,,1.0,,1.0,,,,2.0,1.0,,1.0,8,6,,,Before The Scientist,Songs you’d play at a Greylock social.,Martin_11_2
+2,11,NOKIA,$ome $exy $ongs 4 U,Drake,2025,Abrutyn,,,-1.0,,,1.0,,-1.0,,-1.0,-1.0,-1.0,-4,6,rap; hip hop,rap,Before The Scientist,Songs you’d play at a Greylock social.,Abrutyn_11_2
+2,11,Kill The Lights (with Nile Rodgers) - Audien Remix,Kill The Lights (with Nile Rodgers) [Remixes],Alex Newell; Jess Glynne; DJ Cassidy; Nile Rodgers; Audien,2016,Ojalvo,,,1.0,,2.0,1.0,1.0,,,,3.0,1.0,9,6,edm; progressive house,edm,Before The Scientist,Songs you’d play at a Greylock social.,Ojalvo_11_2
+2,11,HOT TO GO!,The Rise and Fall of a Midwest Princess,Chappell Roan,2023,Leon,-1.0,,,-1.0,-1.0,,,,-1.0,,,,-4,4,,,Before The Scientist,Songs you’d play at a Greylock social.,Leon_11_2
+2,11,Levitating (feat. DaBaby),Future Nostalgia,Dua Lipa; DaBaby,2020,Gorelick,,,,,1.0,,1.0,,1.0,,1.0,1.0,5,5,pop,pop,Before The Scientist,Songs you’d play at a Greylock social.,Gorelick_11_2
+2,11,Party In The U.S.A.,The Time Of Our Lives,Miley Cyrus,2009,Reyes,1.0,,1.0,1.0,,1.0,1.0,2.0,1.0,,1.0,,9,8,,,Before The Scientist,Songs you’d play at a Greylock social.,Reyes_11_2
+2,11,Everytime We Touch,Everytime We Touch (Premium Edition),Cascada,2010,Maizes,1.0,,1.0,,1.0,2.0,,1.0,,2.0,1.0,1.0,10,8,europop; eurodance,europop,Before The Scientist,Songs you’d play at a Greylock social.,Maizes_11_2
+2,11,Don't Look Back In Anger,(What's The Story) Morning Glory?,Oasis,1995,Hochhauser,,,,,,-1.0,1.0,,,1.0,,,1,3,britpop; madchester; rock,britpop,Before The Scientist,Songs you’d play at a Greylock social.,Hochhauser_11_2
+2,12,This One's for Now,Urge for Offal,Half Man Half Biscuit,2014,Gruber,1.0,,,,1.0,,,3.0,,,-1.0,-1.0,3,5,jangle pop; post-punk,jangle pop,Bloody Good,Songs by British artists.,Gruber_12_2
+2,12,(I Can't Get No) Satisfaction - Mono,Out Of Our Heads,The Rolling Stones,1965,Reyes,,,1.0,3.0,1.0,2.0,,,1.0,,2.0,1.0,11,7,classic rock; rock,classic rock,Bloody Good,Songs by British artists.,Reyes_12_2
+2,12,Rather Be (feat. Jess Glynne),Rather Be (feat. Jess Glynne),Clean Bandit; Jess Glynne,2014,Zaslav,,,1.0,,-1.0,,1.0,,2.0,,,,3,4,,,Bloody Good,Songs by British artists.,Zaslav_12_2
+2,12,Kiss from a Rose,Seal,Seal,1994,Ojalvo,2.0,,1.0,,,1.0,,1.0,,1.0,1.0,1.0,8,7,,,Bloody Good,Songs by British artists.,Ojalvo_12_2
+2,12,Walking on Broken Glass,Diva,Annie Lennox,1992,Maizes,,,,,,,,,,,,,0,0,synthpop,synthpop,Bloody Good,Songs by British artists.,Maizes_12_2
+2,12,Weird Fishes / Arpeggi,In Rainbows,Radiohead,2007,Abrutyn,,,1.0,,2.0,,1.0,,1.0,2.0,,,7,5,art rock; alternative rock,art rock,Bloody Good,Songs by British artists.,Abrutyn_12_2
+2,12,Shivers,=,Ed Sheeran,2021,Gorelick,-1.0,,,-1.0,,-1.0,2.0,1.0,1.0,1.0,1.0,1.0,4,9,soft pop,soft pop,Bloody Good,Songs by British artists.,Gorelick_12_2
+2,12,Glycerine - Remastered,Sixteen Stone (Remastered),Bush,1994,Martin,,,-1.0,,1.0,1.0,1.0,,,1.0,1.0,,4,6,grunge; post-grunge,grunge,Bloody Good,Songs by British artists.,Martin_12_2
+2,12,Shine On You Crazy Diamond (Pts. 1-5),Wish You Were Here,Pink Floyd,1975,Schnall,2.0,,,3.0,1.0,1.0,-1.0,-1.0,-1.0,,,1.0,5,8,progressive rock; psychedelic rock; classic rock; symphonic rock; art rock; rock,progressive rock,Bloody Good,Songs by British artists.,Schnall_12_2
+2,12,Fine Line,Fine Line,Harry Styles,2019,Leon,1.0,,1.0,,,,1.0,,1.0,1.0,1.0,1.0,7,7,,,Bloody Good,Songs by British artists.,Leon_12_2
+2,12,Another Love,Long Way Down,Tom Odell,2013,Hochhauser,,,1.0,,,1.0,,1.0,,-1.0,,1.0,3,5,,,Bloody Good,Songs by British artists.,Hochhauser_12_2
+2,13,Golden Slumbers - Remastered 2009,Abbey Road (Remastered),The Beatles,1969,Zaslav,1.0,,1.0,1.0,,2.0,2.0,1.0,1.0,1.0,2.0,,12,9,classic rock; psychedelic rock,classic rock,Shorties,Songs that are less than 2 minutes long,Zaslav_13_2
+2,13,I Will - Remastered 2009,The Beatles (Remastered),The Beatles,1968,Martin,,,,1.0,,2.0,1.0,,1.0,,1.0,-1.0,5,6,classic rock; psychedelic rock,classic rock,Shorties,Songs that are less than 2 minutes long,Martin_13_2
+2,13,April Come She Will,Sounds Of Silence,Simon & Garfunkel,1966,Maizes,,,,1.0,,1.0,,2.0,,1.0,1.0,1.0,7,6,folk rock; folk,folk rock,Shorties,Songs that are less than 2 minutes long,Maizes_13_2
+2,13,The Wind - Remastered 2021,Teaser And The Firecat (Remastered 2021),Yusuf / Cat Stevens,1971,Gorelick,1.0,,,,,,,2.0,,,2.0,,5,3,folk rock; folk; singer-songwriter,folk rock,Shorties,Songs that are less than 2 minutes long,Gorelick_13_2
+2,13,Los Pollos Hermanos,ALPHA PLACE,Knucks,2022,Abrutyn,,,,-1.0,,,1.0,,1.0,,,1.0,2,4,uk drill; grime; drill,uk drill,Shorties,Songs that are less than 2 minutes long,Abrutyn_13_2
+2,13,Outside the Wall,The Wall,Pink Floyd,1979,Gruber,1.0,,-1.0,,,-1.0,-1.0,-1.0,,2.0,,,-1,6,progressive rock; psychedelic rock; classic rock; symphonic rock; art rock; rock,progressive rock,Shorties,Songs that are less than 2 minutes long,Gruber_13_2
+2,13,Disciples,Currents,Tame Impala,2015,Reyes,1.0,,2.0,,,1.0,,,1.0,,,1.0,6,5,indie; psychedelic pop,indie,Shorties,Songs that are less than 2 minutes long,Reyes_13_2
+2,13,It's Not Unusual,Along Came Jones,Tom Jones,1965,Leon,,,1.0,1.0,,,1.0,,1.0,1.0,,1.0,6,6,,,Shorties,Songs that are less than 2 minutes long,Leon_13_2
+2,13,Buddy,Buddy,Connor Price; Hoodie Allen,2022,Ojalvo,-1.0,,,,,,,,,,-1.0,1.0,-1,3,,,Shorties,Songs that are less than 2 minutes long,Ojalvo_13_2
+2,13,Riot!,Some Rap Songs,Earl Sweatshirt,2018,Hochhauser,2.0,,1.0,1.0,,,,,-1.0,1.0,,,4,5,experimental hip hop; alternative hip hop,experimental hip hop,Shorties,Songs that are less than 2 minutes long,Hochhauser_13_2
+2,13,Interlude: Moving On,Paramore,Paramore,2013,Schnall,,,1.0,1.0,,,1.0,1.0,1.0,-1.0,,1.0,5,7,pop punk; emo; emo pop,pop punk,Shorties,Songs that are less than 2 minutes long,Schnall_13_2
+2,14,Hung Up - Radio Version,Hung Up,Madonna,2005,Zaslav,,,2.0,,,-1.0,1.0,,,,,,2,3,,,Sampler Platter,Songs songs that sample another song,Zaslav_14_2
+2,14,Knock Knock,K.I.D.S.,Mac Miller,2010,Leon,,,,,1.0,,,1.0,1.0,1.0,,1.0,5,5,,,Sampler Platter,Songs songs that sample another song,Leon_14_2
+2,14,Save the Life of My Child,Bookends,Simon & Garfunkel,1968,Gruber,-1.0,,-1.0,,,1.0,,1.0,-1.0,,,,-1,5,folk rock; folk,folk rock,Sampler Platter,Songs songs that sample another song,Gruber_14_2
+2,14,Come Back Baby,DAYTONA,Pusha T,2018,Hochhauser,,,,1.0,,1.0,1.0,-1.0,1.0,,,-1.0,2,6,,,Sampler Platter,Songs songs that sample another song,Hochhauser_14_2
+2,14,Empire State Of Mind,The Blueprint 3,JAY-Z; Alicia Keys,2009,Gorelick,2.0,,,1.0,,1.0,2.0,1.0,,-1.0,,1.0,7,7,hip hop; east coast hip hop; rap; r&b; neo soul,hip hop,Sampler Platter,Songs songs that sample another song,Gorelick_14_2
+2,14,Pump It,Monkey Business,Black Eyed Peas,2005,Abrutyn,,,2.0,,-1.0,2.0,-1.0,,1.0,1.0,,1.0,5,7,,,Sampler Platter,Songs songs that sample another song,Abrutyn_14_2
+2,14,You Oughta Know,Diplomats Present: The Purple Bunch,Juelz Santana; Cam'ron,2005,Reyes,,,1.0,,1.0,1.0,1.0,,1.0,,,1.0,6,6,east coast hip hop,east coast hip hop,Sampler Platter,Songs songs that sample another song,Reyes_14_2
+2,14,Dreamin Of The Past (feat. Kanye West),It's Almost Dry,Pusha T; Kanye West,2022,Ojalvo,1.0,,,1.0,2.0,,,1.0,,2.0,,,7,5,rap,rap,Sampler Platter,Songs songs that sample another song,Ojalvo_14_2
+2,14,Whatcha Say,Jason Derulo,Jason Derulo,2010,Maizes,1.0,,,-1.0,1.0,,,2.0,1.0,1.0,,1.0,6,7,,,Sampler Platter,Songs songs that sample another song,Maizes_14_2
+2,14,Like Toy Soldiers,Encore (Deluxe Version),Eminem,2004,Martin,2.0,,1.0,3.0,1.0,,1.0,,1.0,1.0,,1.0,11,8,rap; hip hop,rap,Sampler Platter,Songs songs that sample another song,Martin_14_2
+2,15,Break Free,My Everything (Deluxe),Ariana Grande; Zedd,2014,Reyes,,,1.0,,,,,,1.0,,-1.0,1.0,2,4,pop; edm,pop,Good Riddance,Songs to celebrate a breakup,Reyes_15_2
+2,15,I'm Still Standing,Too Low For Zero,Elton John,1983,Ojalvo,2.0,,1.0,2.0,2.0,,,1.0,,1.0,1.0,1.0,11,8,,,Good Riddance,Songs to celebrate a breakup,Ojalvo_15_2
+2,15,Since U Been Gone,Breakaway,Kelly Clarkson,2004,Martin,1.0,,1.0,,1.0,2.0,2.0,,1.0,2.0,2.0,1.0,13,9,christmas,christmas,Good Riddance,Songs to celebrate a breakup,Martin_15_2
+2,15,Fuck You,The Lady Killer,CeeLo Green,2010,Zaslav,,,,2.0,1.0,1.0,,1.0,1.0,1.0,,,7,6,,,Good Riddance,Songs to celebrate a breakup,Zaslav_15_2
+2,15,Everything She Wants,Make It Big,Wham!,1984,Abrutyn,,,,,-1.0,,-1.0,-1.0,,,,1.0,-2,4,christmas,christmas,Good Riddance,Songs to celebrate a breakup,Abrutyn_15_2
+2,15,I Feel Free,Fresh Cream,Cream,1966,Gruber,,,,,,,,,,,1.0,,1,1,classic rock; psychedelic rock; acid rock; blues rock,classic rock,Good Riddance,Songs to celebrate a breakup,Gruber_15_2
+2,15,Gives You Hell,When The World Comes Down,The All-American Rejects,2008,Gorelick,,,,1.0,,2.0,1.0,1.0,1.0,2.0,2.0,,10,7,pop punk; emo; emo pop,pop punk,Good Riddance,Songs to celebrate a breakup,Gorelick_15_2
+2,15,ABBY,ABBY,Travis Denning,2020,Leon,,,1.0,,1.0,,1.0,1.0,1.0,,,-1.0,4,6,country,country,Good Riddance,Songs to celebrate a breakup,Leon_15_2
+2,15,Over It,Katharine McPhee,Katharine McPhee,2007,Maizes,,,1.0,,,,,2.0,1.0,,,,4,3,,,Good Riddance,Songs to celebrate a breakup,Maizes_15_2
+2,15,"Young, Wild & Free (feat. Bruno Mars)",Mac and Devin Go to High School (Music from and Inspired by the Movie),Snoop Dogg; Wiz Khalifa; Bruno Mars,2011,Hochhauser,-1.0,,-1.0,-1.0,,-1.0,2.0,,-1.0,-1.0,,1.0,-3,8,g-funk; west coast hip hop; gangster rap; hip hop; rap,g-funk,Good Riddance,Songs to celebrate a breakup,Hochhauser_15_2
+2,15,I Will Survive,Love Tracks,Gloria Gaynor,1978,Schnall,3.0,,1.0,1.0,1.0,1.0,,,,,,1.0,8,6,disco,disco,Good Riddance,Songs to celebrate a breakup,Schnall_15_2
+2,16,HISTORY,ORION,X Ambassadors,2019,Hochhauser,1.0,,,2.0,,2.0,2.0,1.0,1.0,,,1.0,10,7,,,To Thee We’ll Ere Be True,Songs that would make good Red & Grey Alma Maters,Hochhauser_16_2
+2,16,The Gunner's Dream,The Final Cut,Pink Floyd,1983,Gruber,,,,,,,-1.0,,-1.0,1.0,,,-1,3,progressive rock; psychedelic rock; classic rock; symphonic rock; art rock; rock,progressive rock,To Thee We’ll Ere Be True,Songs that would make good Red & Grey Alma Maters,Gruber_16_2
+2,16,Home,Daughtry,Daughtry,2006,Ojalvo,,,2.0,,-1.0,2.0,,2.0,,,,1.0,6,5,,,To Thee We’ll Ere Be True,Songs that would make good Red & Grey Alma Maters,Ojalvo_16_2
+2,16,Wake Me up When September Ends,American Idiot,Green Day,2004,Zaslav,,,1.0,,,,1.0,1.0,1.0,-1.0,,,3,5,punk; pop punk,punk,To Thee We’ll Ere Be True,Songs that would make good Red & Grey Alma Maters,Zaslav_16_2
+2,16,Daylight,Daylight,David Kushner,2023,Maizes,-1.0,,,,1.0,,,,,,,,0,2,,,To Thee We’ll Ere Be True,Songs that would make good Red & Grey Alma Maters,Maizes_16_2
+2,16,This Is the Time,The Bridge,Billy Joel,1986,Gorelick,1.0,,,,,,,,1.0,1.0,,2.0,5,4,soft rock,soft rock,To Thee We’ll Ere Be True,Songs that would make good Red & Grey Alma Maters,Gorelick_16_2
+2,16,Boxes,Boxes,The Goo Goo Dolls,2016,Schnall,2.0,,1.0,1.0,2.0,1.0,1.0,1.0,2.0,1.0,,1.0,13,10,,,To Thee We’ll Ere Be True,Songs that would make good Red & Grey Alma Maters,Schnall_16_2
+2,16,Still,Heartbreak Weather,Niall Horan,2020,Leon,,,1.0,-1.0,1.0,,,1.0,,,,,2,4,,,To Thee We’ll Ere Be True,Songs that would make good Red & Grey Alma Maters,Leon_16_2
+2,16,Dance With Me,Collateral,Phillip Phillips,2018,Martin,2.0,,1.0,2.0,1.0,1.0,,,1.0,,,1.0,9,7,folk pop,folk pop,To Thee We’ll Ere Be True,Songs that would make good Red & Grey Alma Maters,Martin_16_2
+2,16,Sunday Morning,Songs About Jane: 10th Anniversary Edition,Maroon 5,2002,Abrutyn,,,-1.0,,1.0,-1.0,,,,3.0,,-1.0,1,5,pop,pop,To Thee We’ll Ere Be True,Songs that would make good Red & Grey Alma Maters,Abrutyn_16_2
+2,16,1979 - Remastered 2012,Mellon Collie And The Infinite Sadness (Deluxe Edition),The Smashing Pumpkins,1995,Reyes,,,,1.0,,,2.0,-1.0,,,,,2,3,alternative rock; rock,alternative rock,To Thee We’ll Ere Be True,Songs that would make good Red & Grey Alma Maters,Reyes_16_2
+2,17,Centuries,American Beauty/American Psycho,Fall Out Boy,2015,Maizes,1.0,,1.0,,,,,,1.0,1.0,2.0,1.0,7,6,emo; pop punk; emo pop,emo,Till The Last Rope Drops,Songs that would make good Red & Grey fight songs,Maizes_17_2
+2,17,SOLD OUT,the mockingbird & THE CROW,HARDY,2023,Leon,-1.0,,-1.0,,1.0,,1.0,1.0,,-1.0,,1.0,1,7,country; country rock,country,Till The Last Rope Drops,Songs that would make good Red & Grey fight songs,Leon_17_2
+2,17,Heart-Shaped Box,In Utero (Deluxe Edition),Nirvana,1993,Gruber,,,,,1.0,2.0,,1.0,-1.0,1.0,,,4,5,grunge; rock,grunge,Till The Last Rope Drops,Songs that would make good Red & Grey fight songs,Gruber_17_2
+2,17,Higher,Human Clay,Creed,1999,Ojalvo,,,,,,1.0,2.0,,,1.0,2.0,1.0,7,5,post-grunge,post-grunge,Till The Last Rope Drops,Songs that would make good Red & Grey fight songs,Ojalvo_17_2
+2,17,Take Me Out,Franz Ferdinand,Franz Ferdinand,2004,Abrutyn,,,,,,,-1.0,,1.0,,1.0,1.0,2,4,indie rock,indie rock,Till The Last Rope Drops,Songs that would make good Red & Grey fight songs,Abrutyn_17_2
+2,17,Natural,Origins (Deluxe),Imagine Dragons,2018,Martin,2.0,,1.0,-1.0,2.0,1.0,2.0,,,,,1.0,8,7,,,Till The Last Rope Drops,Songs that would make good Red & Grey fight songs,Martin_17_2
+2,17,Till I Collapse,The Eminem Show,Eminem; Nate Dogg,2002,Zaslav,1.0,,1.0,2.0,1.0,-1.0,,,1.0,1.0,-1.0,,5,8,rap; hip hop; g-funk; west coast hip hop,rap,Till The Last Rope Drops,Songs that would make good Red & Grey fight songs,Zaslav_17_2
+2,17,Seek & Destroy (Remastered),Kill 'Em All (Remastered),Metallica,1983,Reyes,,,2.0,,,1.0,,1.0,1.0,,,,5,4,metal; thrash metal; rock; heavy metal; hard rock,metal,Till The Last Rope Drops,Songs that would make good Red & Grey fight songs,Reyes_17_2
+2,17,Hells Bells,Back In Black,AC/DC,1980,Gorelick,,,,2.0,1.0,,,1.0,1.0,,1.0,,6,5,rock; hard rock; classic rock; rock and roll,rock,Till The Last Rope Drops,Songs that would make good Red & Grey fight songs,Gorelick_17_2
+2,17,Paradise City,Appetite For Destruction,Guns N' Roses,1987,Hochhauser,1.0,,,2.0,,,,-1.0,,,,-1.0,1,4,rock; glam metal; hard rock; classic rock,rock,Till The Last Rope Drops,Songs that would make good Red & Grey fight songs,Hochhauser_17_2
+2,17,New Divide,Transformers: Revenge Of The Fallen The Album,Linkin Park,2009,Schnall,1.0,,1.0,,-1.0,1.0,1.0,2.0,1.0,2.0,,1.0,9,9,nu metal; rap metal; rock; alternative metal,nu metal,Till The Last Rope Drops,Songs that would make good Red & Grey fight songs,Schnall_17_2
+2,18,Walking On Sunshine,Katrina & The Waves,Katrina & The Waves,1985,Zaslav,,,1.0,2.0,2.0,,2.0,2.0,1.0,,,,10,6,,,Cheer Up!,Songs that lift your mood,Zaslav_18_2
+2,18,Rawhide,Hell Bent For Leather!,Frankie Laine,1961,Gruber,,,,,-1.0,,-1.0,,,,-1.0,,-3,3,,,Cheer Up!,Songs that lift your mood,Gruber_18_2
+2,18,Don't Stop Me Now - Remastered 2011,Greatest Hits (Remastered),Queen,1981,Gorelick,,,,2.0,,1.0,2.0,2.0,1.0,,1.0,1.0,10,7,classic rock; rock; glam rock,classic rock,Cheer Up!,Songs that lift your mood,Gorelick_18_2
+2,18,No Sleep,Rolling Papers,Wiz Khalifa,2011,Hochhauser,,,1.0,,,,1.0,,1.0,,2.0,1.0,6,5,rap,rap,Cheer Up!,Songs that lift your mood,Hochhauser_18_2
+2,18,Away With Your Fairies,Myth,Two Steps from Hell; Thomas Bergersen,2022,Maizes,,,1.0,-1.0,,-1.0,,-1.0,-1.0,,,1.0,-2,6,orchestra,orchestra,Cheer Up!,Songs that lift your mood,Maizes_18_2
+2,18,Getting Better - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,1967,Martin,,,1.0,2.0,1.0,1.0,,,1.0,,2.0,1.0,9,7,classic rock; psychedelic rock,classic rock,Cheer Up!,Songs that lift your mood,Martin_18_2
+2,18,Feel It (From “Invincible”),Feel It (From “Invincible”),d4vd,2024,Abrutyn,,,1.0,,1.0,1.0,,,,,,1.0,4,4,,,Cheer Up!,Songs that lift your mood,Abrutyn_18_2
+2,18,5 to 9,Hudson Westbrook,Hudson Westbrook,2024,Leon,,,-1.0,,1.0,,1.0,,1.0,,,-1.0,1,5,country,country,Cheer Up!,Songs that lift your mood,Leon_18_2
+2,18,Good Vibrations - Remastered 2001,Smiley Smile (Remastered),The Beach Boys,1967,Ojalvo,,,1.0,,,1.0,,1.0,,,1.0,1.0,5,5,baroque pop,baroque pop,Cheer Up!,Songs that lift your mood,Ojalvo_18_2
+2,18,Make It Out,The Stews,The Stews,2021,Schnall,,,,,1.0,2.0,,1.0,1.0,,,,5,4,,,Cheer Up!,Songs that lift your mood,Schnall_18_2
+2,19,Show Me How,Show Me How,Men I Trust,2018,Reyes,2.0,,1.0,,2.0,,,-1.0,1.0,,,,5,5,bedroom pop; indie pop,bedroom pop,Chill Out,Songs that calm you,Reyes_19_2
+2,19,Waves - Robin Schulz Radio Edit,Waves (Robin Schulz Radio Edit),Mr. Probz; Robin Schulz,2014,Ojalvo,-1.0,,1.0,,,,-1.0,,,-1.0,,,-2,4,tropical house,tropical house,Chill Out,Songs that calm you,Ojalvo_19_2
+2,19,Texas Sun,Texas Sun,Khruangbin; Leon Bridges,2020,Zaslav,1.0,,1.0,1.0,1.0,1.0,,,1.0,3.0,,,9,7,neo-psychedelic; retro soul,neo-psychedelic,Chill Out,Songs that calm you,Zaslav_19_2
+2,19,Love Was Really Gone - 2018 Remaster,FIRST LIGHT (2018 Remaster),Makoto Matsushita,1982,Abrutyn,,,1.0,,,,,,,,,,1,1,city pop; jazz fusion; j-r&b,city pop,Chill Out,Songs that calm you,Abrutyn_19_2
+2,19,Once in a Lifetime - 2005 Remaster,Remain in Light (Deluxe Version),Talking Heads,1980,Martin,,,-1.0,3.0,-1.0,-1.0,1.0,,-1.0,1.0,,,1,7,new wave; post-punk,new wave,Chill Out,Songs that calm you,Martin_19_2
+2,19,Gravity,Continuum,John Mayer,2006,Gorelick,1.0,,,-1.0,1.0,2.0,,,1.0,1.0,,,5,6,singer-songwriter,singer-songwriter,Chill Out,Songs that calm you,Gorelick_19_2
+2,19,Pink Moon,Pink Moon,Nick Drake,1972,Hochhauser,1.0,,1.0,1.0,,2.0,,1.0,1.0,1.0,,,8,7,folk; singer-songwriter,folk,Chill Out,Songs that calm you,Hochhauser_19_2
+2,19,Multiplied,Rivers in the Wasteland,NEEDTOBREATHE,2014,Maizes,,,,,,,,2.0,1.0,,,,3,2,christian; christian folk; christian alternative rock; ccm; christian rock; worship,christian,Chill Out,Songs that calm you,Maizes_19_2
+2,19,"Gone, Gone, Gone",The World From The Side Of The Moon,Phillip Phillips,2012,Schnall,1.0,,,,1.0,,2.0,1.0,1.0,,,,6,5,folk pop,folk pop,Chill Out,Songs that calm you,Schnall_19_2
+2,19,Fire Away,Traveller,Chris Stapleton,2015,Leon,,,1.0,1.0,,,2.0,1.0,,,,,5,4,country; outlaw country,country,Chill Out,Songs that calm you,Leon_19_2
+2,19,Here Comes The Sun - Remastered 2009,Abbey Road (Remastered),The Beatles,1969,Gruber,,,,,1.0,1.0,1.0,1.0,,,,,4,4,classic rock; psychedelic rock,classic rock,Chill Out,Songs that calm you,Gruber_19_2
+2,20,High On A Rocky Ledge,H'art Songs,Moondog,2016,Gruber,-1.0,,1.0,,,-1.0,-1.0,1.0,-1.0,-1.0,,,-3,7,minimalism; avant-garde,minimalism,Alter Egos,Songs by artists that go by a stage name,Gruber_20_2
+2,20,One Day,Light,Matisyahu,2010,Martin,1.0,,1.0,,1.0,1.0,1.0,,1.0,,,,6,6,reggae; reggae rock,reggae,Alter Egos,Songs by artists that go by a stage name,Martin_20_2
+2,20,When I Was Your Man,Unorthodox Jukebox,Bruno Mars,2012,Reyes,2.0,,-1.0,1.0,,1.0,2.0,1.0,1.0,,,,7,7,,,Alter Egos,Songs by artists that go by a stage name,Reyes_20_2
+2,20,U + Ur Hand,I'm Not Dead,P!nk,2006,Maizes,,,1.0,1.0,,2.0,,1.0,1.0,,,,6,5,,,Alter Egos,Songs by artists that go by a stage name,Maizes_20_2
+2,20,Smack That,Konvicted,Akon; Eminem,2006,Gorelick,,,,1.0,-1.0,,1.0,1.0,1.0,1.0,,,4,6,rap; hip hop,rap,Alter Egos,Songs by artists that go by a stage name,Gorelick_20_2
+2,20,Let It Happen,Currents,Tame Impala,2015,Abrutyn,,,1.0,-1.0,1.0,1.0,,-1.0,1.0,2.0,,,4,7,neo-psychedelic; indie,neo-psychedelic,Alter Egos,Songs by artists that go by a stage name,Abrutyn_20_2
+2,20,3005,Because the Internet,Childish Gambino,2013,Ojalvo,2.0,,1.0,1.0,2.0,1.0,,1.0,,1.0,,,9,7,,,Alter Egos,Songs by artists that go by a stage name,Ojalvo_20_2
+2,20,Feeling Whitney,Stoney (Deluxe),Post Malone,2016,Leon,1.0,,,1.0,2.0,,2.0,1.0,,1.0,,,8,6,,,Alter Egos,Songs by artists that go by a stage name,Leon_20_2
+2,20,Marcy Me,4:44,JAY-Z,2017,Hochhauser,,,1.0,1.0,,,,,1.0,1.0,,,4,4,hip hop; east coast hip hop; rap,hip hop,Alter Egos,Songs by artists that go by a stage name,Hochhauser_20_2
+2,21,Soundtrack 2 My Life,Man On The Moon: The End Of Day,Kid Cudi,2009,Ojalvo,1.0,,1.0,1.0,2.0,-1.0,,2.0,,2.0,,1.0,9,8,,,A Numbers Game,Songs with a number in the title.,Ojalvo_21_2
+2,21,One,Achtung Baby (Deluxe Edition),U2,1991,Reyes,1.0,,1.0,1.0,,1.0,1.0,1.0,,,,1.0,7,7,rock,rock,A Numbers Game,Songs with a number in the title.,Reyes_21_2
+2,21,20/10 TN,KING,Tucker Beathard,2020,Leon,,,,,-1.0,,1.0,,-1.0,-1.0,,-1.0,-3,5,,,A Numbers Game,Songs with a number in the title.,Leon_21_2
+2,21,90210 (feat. Kacy Hill),Rodeo,Travis Scott; Kacy Hill,2015,Abrutyn,,,1.0,-1.0,2.0,,-1.0,-1.0,2.0,1.0,,,3,7,rap,rap,A Numbers Game,Songs with a number in the title.,Abrutyn_21_2
+2,21,3AM,Yourself or Someone Like You,Matchbox Twenty,1996,Maizes,1.0,,1.0,,,,,1.0,,,,,3,3,post-grunge,post-grunge,A Numbers Game,Songs with a number in the title.,Maizes_21_2
+2,21,21 Guns,21st Century Breakdown,Green Day,2009,Martin,,,1.0,3.0,,1.0,2.0,,1.0,,,1.0,9,6,punk; pop punk,punk,A Numbers Game,Songs with a number in the title.,Martin_21_2
+2,21,2009,Swimming,Mac Miller,2018,Zaslav,1.0,,,,2.0,1.0,,,,2.0,,,6,4,,,A Numbers Game,Songs with a number in the title.,Zaslav_21_2
+2,21,a thousand years,a thousand years,Christina Perri,2011,Gorelick,1.0,,,,,1.0,1.0,1.0,1.0,,,2.0,7,6,soft pop,soft pop,A Numbers Game,Songs with a number in the title.,Gorelick_21_2
+2,21,Highway 61 Revisited,Highway 61 Revisited,Bob Dylan,1965,Hochhauser,-1.0,,-1.0,1.0,,2.0,,,1.0,,,,2,5,folk rock; folk; singer-songwriter; roots rock; country rock,folk rock,A Numbers Game,Songs with a number in the title.,Hochhauser_21_2
+2,21,50 Ways to Leave Your Lover,Still Crazy After All These Years,Paul Simon,1975,Gruber,1.0,,1.0,,,,1.0,1.0,1.0,1.0,,1.0,7,7,singer-songwriter,singer-songwriter,A Numbers Game,Songs with a number in the title.,Gruber_21_2
